@@ -1,1 +1,1863 @@
-[]
+[
+  {
+    "id": "bear-gerhardt",
+    "name_en": "Bear Gerhardt",
+    "name_he": "בר גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Bear Gerhardt is the middle son of the Fargo crime family in 1979. He is loyal to his mother Floyd and kills his niece Simone for betraying the family. At the Sioux Falls motel he tries to kill Lou Solverson. Lou shoots him dead.",
+    "bio_he": "בר גרהרדט הוא הבן האמצעי של משפחת הפשע מפארגו ב-1979. הוא נאמן לאמו פלויד והורג את אחייניתו סימון על שבגדה במשפחה. במוטל בסו פולס הוא מנסה להרוג את לו סולוורסון. לו יורה בו והורג אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "ben-schmidt",
+    "name_en": "Ben Schmidt",
+    "name_he": "בן שמידט",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Ben Schmidt is a Fargo police detective in 1979 who works the Gerhardt case with Lou Solverson. By 2006 he is a senior lieutenant in Duluth and Gus Grimly's boss. He is still on the force at the end of his story.",
+    "bio_he": "בן שמידט הוא בלש במשטרת פארגו ב-1979, וחוקר את פרשת גרהרדט עם לו סולוורסון. ב-2006 הוא סגן בכיר בדולות והמפקד של גאס גרימלי. בסוף הסיפור הוא עדיין במשטרה.",
+    "also_known_as": []
+  },
+  {
+    "id": "betsy-solverson",
+    "name_en": "Betsy Solverson",
+    "name_he": "בטסי סולוורסון",
+    "seasons": [
+      2
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Betsy Solverson is Lou's wife and Molly's mother. In 1979 she is fighting cancer in Luverne while the Gerhardt war unfolds. She survives that winter. The show makes clear she dies of the cancer before 2006.",
+    "bio_he": "בטסי סולוורסון היא אשתו של לו ואמה של מולי. ב-1979 היא נלחמת בסרטן בלוורן בזמן מלחמת גרהרדט. היא שורדת את החורף ההוא. הסדרה מבהירה שהיא מתה מהסרטן לפני 2006.",
+    "also_known_as": []
+  },
+  {
+    "id": "bill-budge",
+    "name_en": "Bill Budge",
+    "name_he": "ביל באג'",
+    "seasons": [
+      1
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Bill Budge is an FBI agent paired with Webb Pepper. They watch the Fargo syndicate and miss Lorne Malvo's massacre. The Bureau demotes both men to filing clerks. They are alive at the end of the season.",
+    "bio_he": "ביל באג' הוא סוכן אף־בי־איי שעובד עם וב פפר. הם עוקבים אחרי הארגון מפארגו ומפספסים את הטבח של לורן מאלוו. הלשכה מורידה את שניהם לארכיון. הם בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "bill-oswalt",
+    "name_en": "Bill Oswalt",
+    "name_he": "ביל אוסוולט",
+    "seasons": [
+      1
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Bill Oswalt becomes Bemidji police chief after Vern Thurman is murdered. He refuses Molly Solverson's theory and clears Lester Nygaard. He is a decent man and a bad investigator. He is alive when the case finally breaks.",
+    "bio_he": "ביל אוסוולט מתמנה למפקד משטרת במיג'י אחרי רצח ורן תורמן. הוא דוחה את התיאוריה של מולי סולוורסון ומנקה את לסטר נייגארד. הוא אדם הגון וחוקר גרוע. הוא בחיים כשהתיק נפתח סוף סוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "bo-munk",
+    "name_en": "Bo Munk",
+    "name_he": "בו מאנק",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Bo Munk runs the Bemidji insurance office where Lester Nygaard works. He is Lester's boss before and after the murders. The season does not harm him. He is alive at the end.",
+    "bio_he": "בו מאנק מנהל את משרד הביטוח בבמיג'י שבו עובד לסטר נייגארד. הוא הבוס של לסטר לפני הרציחות ואחריהן. העונה לא פוגעת בו. הוא בחיים בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "bowman",
+    "name_en": "Bowman",
+    "name_he": "באומן",
+    "seasons": [
+      5
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Bowman is the foreman at Roy Tillman's ranch and Roy's right-hand man. He helps run the sheriff's private force. Ole Munch shoots him in the head during the fight at the ranch.",
+    "bio_he": "באומן הוא מנהל העבודה בחווה של רוי טילמן ואיש אמונו. הוא עוזר לנהל את הכוח הפרטי של השריף. אולה מונך יורה לו בראש בקרב בחווה.",
+    "also_known_as": []
+  },
+  {
+    "id": "buel-cannon",
+    "name_en": "Buel Cannon",
+    "name_he": "ביואל קנון",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Buel Cannon is Loy Cannon's wife and the mother of Lemuel, Satchel, and their sisters. She keeps the family together while Loy fights the Faddas in 1950. She is alive when Satchel comes home and Loy is killed.",
+    "bio_he": "ביואל קנון היא אשתו של לוי קנון ואמם של למואל, סאצ'ל ואחיותיהם. היא מחזיקה את המשפחה בזמן שלוי נלחם בפאדה ב-1950. היא בחיים כשסאצ'ל חוזר הביתה ולוי נהרג.",
+    "also_known_as": []
+  },
+  {
+    "id": "burt-canton",
+    "name_en": "Burt Canton",
+    "name_he": "ברט קנטון",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Burt Canton is a Kansas City dentist. In 2007 Lorne Malvo, posing as a fellow dentist, befriends him to reach Burt's brother in witness protection. Lester Nygaard exposes Malvo before that hit. Burt survives.",
+    "bio_he": "ברט קנטון הוא רופא שיניים בקנזס סיטי. ב-2007 לורן מאלוו, שמתחזה לרופא שיניים, מתקרב אליו כדי להגיע לאחיו שנמצא בהגנת עדים. לסטר נייגארד חושף את מאלוו לפני החיסול. ברט שורד.",
+    "also_known_as": []
+  },
+  {
+    "id": "carl-showalter",
+    "name_en": "Carl Showalter",
+    "name_he": "קרל שוואלטר",
+    "seasons": [
+      0
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Carl Showalter is the talkative kidnapper Jerry Lundegaard hires in 1987. He and Gaear Grimsrud take Jean Lundegaard. Carl shoots Wade Gustafson, buries most of the ransom, and fights Gaear over the car. Gaear kills him with an axe.",
+    "bio_he": "קרל שוואלטר הוא החוטף הדברן שג'רי לונדגורד שוכר ב-1987. הוא וגאיר גרימסרוד חוטפים את ג'ין לונדגורד. קרל יורה בווייד גוסטפסון, קובר את רוב הכופר, ורב עם גאיר על המכונית. גאיר הורג אותו בגרזן.",
+    "also_known_as": []
+  },
+  {
+    "id": "charlie-gerhardt",
+    "name_en": "Charlie Gerhardt",
+    "name_he": "צ'רלי גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Charlie Gerhardt is Bear's teenage son. Dodd sends him with Virgil Bauer to kill Ed Blumquist. The hit fails, Virgil dies, and Charlie is badly hurt and hospitalized. He is not among the Gerhardts killed later.",
+    "bio_he": "צ'רלי גרהרדט הוא בנו המתבגר של בר. דוד שולח אותו עם וירג'יל באואר להרוג את אד בלומקוויסט. החיסול נכשל, וירג'יל מת, וצ'רלי נפצע קשה ומאושפז. הוא לא בין בני גרהרדט שנהרגים אחר כך.",
+    "also_known_as": []
+  },
+  {
+    "id": "chazz-nygaard",
+    "name_en": "Chazz Nygaard",
+    "name_he": "צ'אז נייגארד",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Chazz Nygaard is Lester's richer younger brother. After the murders, Lester hides the weapon and other proof in Chazz's gun safe and sends the police to him. Chazz is jailed for crimes he did not commit. He is alive in prison.",
+    "bio_he": "צ'אז נייגארד הוא אחיו הצעיר והעשיר של לסטר. אחרי הרציחות לסטר מחביא את הנשק ושאר הראיות בכספת של צ'אז ומפנה אליו את המשטרה. צ'אז נכלא על פשעים שלא ביצע. הוא בחיים בכלא.",
+    "also_known_as": []
+  },
+  {
+    "id": "chianna-fadda",
+    "name_en": "Chianna Fadda",
+    "name_he": "קיאנה פאדה",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Chianna Fadda is the mother of Josto and Gaetano. During the Kansas City war, gunmen hit the family house. She is struck by the bullets and dies inside while her sons fight back.",
+    "bio_he": "קיאנה פאדה היא אמם של ג'וסטו וגאטאנו. במלחמה בקנזס סיטי יורים פוגעים בבית המשפחה. היא נפגעת מהכדורים ומתה בפנים בזמן שבניה משיבים אש.",
+    "also_known_as": []
+  },
+  {
+    "id": "chief-gibson",
+    "name_en": "Chief Gibson",
+    "name_he": "המפקד גיבסון",
+    "seasons": [
+      2
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Chief Gibson leads officers of the South Dakota Highway Patrol at the Sioux Falls motel. He is on the scene when the Gerhardts and Hanzee Dent arrive. Hanzee shoots him dead in the massacre.",
+    "bio_he": "המפקד גיבסון מוביל שוטרים של משטרת הכבישים של דרום דקוטה במוטל בסו פולס. הוא במקום כשבני גרהרדט והנזי דנט מגיעים. הנזי יורה בו והורג אותו בטבח.",
+    "also_known_as": []
+  },
+  {
+    "id": "constant-calamita",
+    "name_en": "Constant Calamita",
+    "name_he": "קונסטנט קלאמיטה",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Constant Calamita is a Fadda hitman who sides with Gaetano against Josto. He shoots Doctor Senator in the street. Later he corners Rabbi Milligan and Satchel. A tornado kills him, Rabbi, and Omie Sparkman.",
+    "bio_he": "קונסטנט קלאמיטה הוא רוצח שכיר של פאדה שעומד עם גאטאנו נגד ג'וסטו. הוא יורה בדוקטור סנטור ברחוב. אחר כך הוא לוכד את רבי מיליגן ואת סאצ'ל. טורנדו הורג אותו, את רבי ואת אומי ספארקמן.",
+    "also_known_as": []
+  },
+  {
+    "id": "danish-graves",
+    "name_en": "Danish Graves",
+    "name_he": "דניש גרייבס",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Danish Graves is Lorraine Lyon's lawyer and fixer. He shields the family and offers Roy Tillman an election deal in exchange for Dot. Roy answers by shooting Danish in the chest and the head.",
+    "bio_he": "דניש גרייבס הוא עורך הדין והמתקן של לוריין ליון. הוא מגן על המשפחה ומציע לרוי טילמן עסקת בחירות תמורת דוט. רוי עונה בירי בחזה ובראש של דניש.",
+    "also_known_as": []
+  },
+  {
+    "id": "david-harvard",
+    "name_en": "David Harvard",
+    "name_he": "דייוויד הרוורד",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Dr. David Harvard runs a private Kansas City hospital and refuses to treat Donatello Fadda. Oraetta Mayflower later works at his hospital. Josto ambushes him, shoots him, and burns the body.",
+    "bio_he": "ד״ר דייוויד הרוורד מנהל בית חולים פרטי בקנזס סיטי ומסרב לטפל בדונטלו פאדה. אוראטה מייפלאור עובדת אחר כך בבית החולים שלו. ג'וסטו אורב לו, יורה בו ושורף את הגופה.",
+    "also_known_as": []
+  },
+  {
+    "id": "deafy-wickware",
+    "name_en": "Dick Wickware",
+    "name_he": "דיק ויקאוור",
+    "seasons": [
+      4
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Dick Wickware is a Mormon U.S. Marshal called Deafy. He comes to Kansas City to catch Zelmare Roulette and Swanee Capps. At the train station he has them, and corrupt cop Odis Weff shoots him dead.",
+    "bio_he": "דיק ויקאוור הוא מרשל מורמוני שמכונה דפי. הוא מגיע לקנזס סיטי לתפוס את זלמר רולט וסוואני קאפס. בתחנת הרכבת הן בידיו, והשוטר המושחת אודיס וף יורה בו והורג אותו.",
+    "also_known_as": [
+      "Deafy"
+    ]
+  },
+  {
+    "id": "dibrell-smutny",
+    "name_en": "Dibrell Smutny",
+    "name_he": "דיברל סמאטני",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Dibrell Smutny runs the family funeral home with her husband Thurman and is Ethelrida's mother. She shelters her sister Zelmare and lives through the Cannon debt and the gang war. She is alive with her family at the end.",
+    "bio_he": "דיברל סמאטני מנהלת את בית הלוויות המשפחתי עם בעלה תורמן, והיא אמה של אתלרידה. היא נותנת מחסה לאחותה זלמר ושורדת את החוב לקנון ואת מלחמת הכנופיות. היא בחיים עם משפחתה בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "doctor-senator",
+    "name_en": "Doctor Senator",
+    "name_he": "דוקטור סנטור",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Doctor Senator is Loy Cannon's consigliere. His first name is Doctor. He tries to keep the Cannon-Fadda peace and spots Gaetano's double game. Constant Calamita follows him out of a diner and shoots him dead.",
+    "bio_he": "דוקטור סנטור הוא היועץ של לוי קנון. השם הפרטי שלו הוא דוקטור. הוא מנסה לשמור על השלום בין קנון לפאדה ומזהה את המשחק הכפול של גאטאנו. קונסטנט קלאמיטה יוצא אחריו ממסעדה ויורה בו למוות.",
+    "also_known_as": []
+  },
+  {
+    "id": "dodd-gerhardt",
+    "name_en": "Dodd Gerhardt",
+    "name_he": "דוד גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Dodd Gerhardt is the eldest Gerhardt son and wants his father's crown. He is cruel to his daughter Simone and to Hanzee Dent. Peggy and Ed Blumquist capture him. Hanzee then kills him and takes his ear.",
+    "bio_he": "דוד גרהרדט הוא הבן הבכור של גרהרדט ורוצה את כתר אביו. הוא אכזר לבתו סימון ולהנזי דנט. פגי ואד בלומקוויסט לוכדים אותו. אחר כך הנזי הורג אותו ולוקח את אוזנו.",
+    "also_known_as": []
+  },
+  {
+    "id": "don-chumph",
+    "name_en": "Don Chumph",
+    "name_he": "דון צ'אמפ",
+    "seasons": [
+      1
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Don Chumph is a personal trainer who blackmails Stavros Milos. Lorne Malvo finds him, steals the scheme, and locks him in a pantry. Malvo then ties him to a bench with an empty shotgun. Police storm the house and kill him.",
+    "bio_he": "דון צ'אמפ הוא מאמן כושר שסוחט את סטברוס מילוס. לורן מאלוו מוצא אותו, לוקח את התוכנית ונועל אותו במזווה. אחר כך מאלוו קושר אותו לספסל עם רובה ריק. השוטרים פורצים לבית והורגים אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "donatello-fadda",
+    "name_en": "Donatello Fadda",
+    "name_he": "דונטלו פאדה",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Donatello Fadda is the don of the Fadda family in Kansas City. In 1950 a child's BB shot hits him in the neck. Nurse Oraetta Mayflower finishes him with a morphine injection and steals his ring.",
+    "bio_he": "דונטלו פאדה הוא הדון של משפחת פאדה בקנזס סיטי. ב-1950 כדור אוויר של ילד פוגע לו בצוואר. האחות אוראטה מייפלאור מסיימת אותו בזריקת מורפיום וגונבת את הטבעת שלו.",
+    "also_known_as": []
+  },
+  {
+    "id": "donny-ireland",
+    "name_en": "Donny Ireland",
+    "name_he": "דוני איירלנד",
+    "seasons": [
+      5
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Donny Ireland is the freelance criminal Ole Munch brings along to kidnap Dot Lyon. Dot escapes, rigs a gas station, and the traps kill Donny. Munch gets away wounded.",
+    "bio_he": "דוני איירלנד הוא עבריין עצמאי שאולה מונך מביא איתו כדי לחטוף את דוט ליון. דוט בורחת, ממקמת מלכודות בתחנת דלק, והמלכודות הורגות את דוני. מונך נמלט פצוע.",
+    "also_known_as": [
+      "Donald Ireland"
+    ]
+  },
+  {
+    "id": "donny-mashman",
+    "name_en": "Donny Mashman",
+    "name_he": "דוני משמן",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Donny Mashman is Gloria Burgle's partner on the Eden Valley police. He works Ennis Stussy's murder with her as the department is folded into the county. He is alive at the end of the season.",
+    "bio_he": "דוני משמן הוא השותף של גלוריה ברגל במשטרת עדן ואלי. הוא חוקר איתה את רצח אניס סטאסי כשהמחלקה נבלעת במחוז. הוא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "dot-lyon",
+    "name_en": "Dot Lyon",
+    "name_he": "דוט ליון",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Dot Lyon is a Scandia wife and mother who fled an abusive marriage. Born Nadine Bump, she was Nadine Tillman before she ran. In 2019 she fights off kidnappers, shoots Roy Tillman, and goes home to Wayne and Scotty.",
+    "bio_he": "דוט ליון היא רעיה ואם מסקנדיה שברחה מנישואים אלימים. היא נולדה נדין באמפ, והייתה נדין טילמן לפני שברחה. ב-2019 היא נלחמת בחוטפים, יורה ברוי טילמן, וחוזרת הביתה אל וויין וסקוטי.",
+    "also_known_as": [
+      "Dorothy Lyon",
+      "Nadine Bump",
+      "Nadine Tillman"
+    ]
+  },
+  {
+    "id": "ebal-violante",
+    "name_en": "Ebal Violante",
+    "name_he": "אבאל ויולנטה",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Ebal Violante is consigliere to the Fadda family. After the brothers waste the war, he takes the outfit, blames Josto for Donatello's death, and has Josto and Oraetta executed. He is alive and in charge at the end.",
+    "bio_he": "אבאל ויולנטה הוא היועץ של משפחת פאדה. אחרי שהאחים מבזבזים את המלחמה הוא לוקח את הארגון, מאשים את ג'וסטו במות דונטלו, ומוציא להורג את ג'וסטו ואוראטה. הוא בחיים ובראש הארגון בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "ed-blumquist",
+    "name_en": "Ed Blumquist",
+    "name_he": "אד בלומקוויסט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Ed Blumquist is a Luverne butcher married to Peggy. He kills Rye Gerhardt in the garage and grinds up the body. The Gerhardts and Kansas City both hunt him. Hanzee Dent shoots him, and he dies in a walk-in freezer.",
+    "bio_he": "אד בלומקוויסט הוא קצב מלוורן, נשוי לפגי. הוא הורג את ראי גרהרדט במוסך וטוחן את הגופה. בני גרהרדט וקנזס סיטי צדים אותו. הנזי דנט יורה בו, והוא מת בחדר הקירור.",
+    "also_known_as": []
+  },
+  {
+    "id": "emmit-stussy",
+    "name_en": "Emmit Stussy",
+    "name_he": "אמיט סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Emmit Stussy is the wealthy Parking Lot King of Minnesota. A feud with his brother Ray ends when a broken stamp frame cuts Ray's throat. Varga eats his company. Years later Mr. Wrench shoots Emmit in his own kitchen.",
+    "bio_he": "אמיט סטאסי הוא מלך החניונים העשיר של מינסוטה. סכסוך עם אחיו ריי נגמר כשמסגרת בול שבורה חותכת את גרונו של ריי. ורגה בולע את החברה שלו. שנים אחר כך מר רנץ' יורה באמיט במטבח שלו.",
+    "also_known_as": []
+  },
+  {
+    "id": "ennis-stussy",
+    "name_en": "Ennis Stussy",
+    "name_he": "אניס סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Ennis Stussy is Gloria Burgle's stepfather. He used to be the writer Thaddeus Mobley, conned in Los Angeles, and he took a new name. Maurice LeFay kills him by mistake while looking for Emmit Stussy.",
+    "bio_he": "אניס סטאסי הוא אביה החורג של גלוריה ברגל. פעם היה הסופר תדאוס מובלי, רומה בלוס אנג'לס, ולקח שם חדש. מוריס לה-פיי הורג אותו בטעות כשהוא מחפש את אמיט סטאסי.",
+    "also_known_as": [
+      "Thaddeus Mobley"
+    ]
+  },
+  {
+    "id": "ethelrida-smutny",
+    "name_en": "Ethelrida Pearl Smutny",
+    "name_he": "אתלרידה פרל סמאטני",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Ethelrida Pearl Smutny is a sharp Kansas City teenager whose parents run a funeral home. She uncovers nurse Oraetta Mayflower's murders and helps steer the family through the 1950 gang war. She is alive and telling the history at the end.",
+    "bio_he": "אתלרידה פרל סמאטני היא נערה חדה מקנזס סיטי שהוריה מנהלים בית לוויות. היא חושפת את רציחות האחות אוראטה מייפלאור ועוזרת למשפחה לעבור את מלחמת הכנופיות של 1950. היא בחיים ומספרת את ההיסטוריה בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "floyd-gerhardt",
+    "name_en": "Floyd Gerhardt",
+    "name_he": "פלויד גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Floyd Gerhardt leads the Fargo family after her husband Otto has a stroke. She faces her sons and a Kansas City buyout in 1979. She makes a deal with the police. Hanzee Dent stabs her to death at Sioux Falls.",
+    "bio_he": "פלויד גרהרדט עומדת בראש המשפחה מפארגו אחרי שבעלה אוטו לוקה בשבץ. היא מתמודדת עם בניה ועם הצעת קנייה מקנזס סיטי ב-1979. היא סוגרת עסקה עם המשטרה. הנזי דנט דוקר אותה למוות בסו פולס.",
+    "also_known_as": []
+  },
+  {
+    "id": "gaear-grimsrud",
+    "name_en": "Gaear Grimsrud",
+    "name_he": "גאיר גרימסרוד",
+    "seasons": [
+      0
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Gaear Grimsrud is the quiet killer partnered with Carl Showalter. He shoots a state trooper and two witnesses, murders Jean Lundegaard, and kills Carl with an axe. Marge Gunderson shoots him in the leg and arrests him at the woodchipper.",
+    "bio_he": "גאיר גרימסרוד הוא הרוצח השקט שעובד עם קרל שוואלטר. הוא יורה בשוטר מדינה ובשני עדי ראייה, רוצח את ג'ין לונדגורד, והורג את קרל בגרזן. מארג' גנדרסון יורה לו ברגל ועוצרת אותו ליד מטחנת העץ.",
+    "also_known_as": []
+  },
+  {
+    "id": "gaetano-fadda",
+    "name_en": "Gaetano Fadda",
+    "name_he": "גאטאנו פאדה",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Gaetano Fadda is Josto's violent younger brother, newly arrived from Italy. He undermines Josto and pushes the war with Loy Cannon. After a rare moment of peace with his brother, he slips, and his own gun kills him.",
+    "bio_he": "גאטאנו פאדה הוא אחיו הצעיר והאלים של ג'וסטו, שהגיע זה עתה מאיטליה. הוא מערער את ג'וסטו ודוחף את המלחמה עם לוי קנון. אחרי רגע נדיר של שלום עם אחיו הוא מחליק, והאקדח שלו הורג אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "gale-kitchen",
+    "name_en": "Gale Kitchen",
+    "name_he": "גייל קיצ'ן",
+    "seasons": [
+      2,
+      4
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Gale Kitchen is one of the twin enforcers who ride with Mike Milligan. His brother Wayne is killed in 1979. Gale stays with Mike through the Sioux Falls job. He is alive when that war ends.",
+    "bio_he": "גייל קיצ'ן הוא אחד מתאומי האכיפה שנוסעים עם מייק מיליגן. אחיו וויין נהרג ב-1979. גייל נשאר עם מייק בעבודת סו פולס. הוא בחיים כשהמלחמה הזאת נגמרת.",
+    "also_known_as": []
+  },
+  {
+    "id": "gator-tillman",
+    "name_en": "Gator Tillman",
+    "name_he": "גייטור טילמן",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Gator Tillman is Roy's son and a Stark County deputy. He hunts Dot Lyon for his father and kills the old woman who sheltered Ole Munch. Munch takes his eyes. Gator then gives Roy up and goes to prison alive.",
+    "bio_he": "גייטור טילמן הוא בנו של רוי וסגן במחוז סטארק. הוא צד את דוט ליון עבור אביו והורג את הזקנה שנתנה מחסה לאולה מונך. מונך לוקח את עיניו. אחר כך גייטור מסגיר את רוי והולך לכלא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "gina-hess",
+    "name_en": "Gina Hess",
+    "name_he": "ג'ינה הס",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Gina Hess is Sam Hess's widow. She drinks, leans on Lester Nygaard over the insurance, and brings her sons to his office. Lester faces her down. The season leaves her alive.",
+    "bio_he": "ג'ינה הס היא אלמנתו של סם הס. היא שותה, נשענת על לסטר נייגארד בגלל הביטוח, ומביאה את בניה למשרד שלו. לסטר עומד מולה. העונה משאירה אותה בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "gloria-burgle",
+    "name_en": "Gloria Burgle",
+    "name_he": "גלוריה ברגל",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Gloria Burgle is the Eden Valley police chief who investigates her stepfather's murder and the Stussy brothers. County politics push her aside. Years later she is a Homeland Security officer questioning V.M. Varga. She is alive.",
+    "bio_he": "גלוריה ברגל היא מפקדת משטרת עדן ואלי שחוקרת את רצח אביה החורג ואת האחים סטאסי. הפוליטיקה המחוזית דוחקת אותה הצידה. שנים אחר כך היא קצינה בביטחון המולדת שחוקרת את וי.אם. ורגה. היא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "golem",
+    "name_en": "The Golem",
+    "name_he": "הגולם",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "The Golem is a killer on V.M. Varga's crew. He tries to poison Nikki Swango in jail and later hunts her with Yuri Gurka. Nikki Swango and Mr. Wrench kill him with a handcuff chain.",
+    "bio_he": "הגולם הוא רוצח בצוות של וי.אם. ורגה. הוא מנסה להרעיל את ניקי סוואנגו בכלא ואחר כך צד אותה עם יורי גורקה. ניקי סוואנגו ומר רנץ' הורגים אותו בשרשרת אזיקים.",
+    "also_known_as": []
+  },
+  {
+    "id": "gordo-nygaard",
+    "name_en": "Gordo Nygaard",
+    "name_he": "גורדו נייגארד",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Gordo Nygaard is Chazz's young son. Lester hides a gun in the boy's school backpack so police will search Chazz's house. Gordo is not harmed. He is alive when his father is jailed.",
+    "bio_he": "גורדו נייגארד הוא בנו הצעיר של צ'אז. לסטר מחביא אקדח בתיק בית הספר של הילד כדי שהמשטרה תחפש בבית של צ'אז. גורדו לא נפגע. הוא בחיים כשאביו נכלא.",
+    "also_known_as": []
+  },
+  {
+    "id": "grace-stussy",
+    "name_en": "Grace Stussy",
+    "name_he": "גרייס סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Grace Stussy is Emmit and Stella's daughter. She watches her parents' marriage crack under Varga and the feud with Ray. She is with the family again years later, before Mr. Wrench kills her father. She survives.",
+    "bio_he": "גרייס סטאסי היא בתם של אמיט וסטלה. היא רואה את נישואי הוריה נסדקים תחת ורגה והסכסוך עם ריי. היא שוב עם המשפחה שנים אחר כך, לפני שמר רנץ' הורג את אביה. היא שורדת.",
+    "also_known_as": []
+  },
+  {
+    "id": "greta-grimly",
+    "name_en": "Greta Grimly",
+    "name_he": "גרטה גרימלי",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Greta Grimly is Gus Grimly's daughter. In 2006 she lives with him in Duluth and later becomes Molly Solverson's stepdaughter. She appears again in the family's later years. She is alive.",
+    "bio_he": "גרטה גרימלי היא בתו של גאס גרימלי. ב-2006 היא גרה איתו בדולות ואחר כך נעשית בתה החורגת של מולי סולוורסון. היא מופיעה שוב בשנים המאוחרות של המשפחה. היא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "gus-grimly",
+    "name_en": "Gus Grimly",
+    "name_he": "גאס גרימלי",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Gus Grimly is a Duluth officer who lets Lorne Malvo go after a traffic stop, then spends the year trying to undo that choice. He shoots Malvo dead at a cabin. He leaves the force, marries Molly, and accepts a bravery commendation.",
+    "bio_he": "גאס גרימלי הוא שוטר בדולות שמשחרר את לורן מאלוו אחרי עצירת תנועה, ואז מבלה שנה בניסיון לתקן את זה. הוא יורה במאלוו למוות בבקתה. הוא עוזב את המשטרה, נושא את מולי, ומקבל ציון אומץ.",
+    "also_known_as": []
+  },
+  {
+    "id": "hamish-broker",
+    "name_en": "Hamish Broker",
+    "name_he": "האמיש ברוקר",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Hamish Broker is a boss in the Kansas City syndicate above Joe Bulo and Mike Milligan. After the Gerhardt war he does not reward Mike with a territory. He gives him a desk. Broker is alive.",
+    "bio_he": "האמיש ברוקר הוא בוס בארגון קנזס סיטי, מעל ג'ו בולו ומייק מיליגן. אחרי מלחמת גרהרדט הוא לא נותן למייק טריטוריה. הוא נותן לו שולחן. ברוקר בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "hank-larsson",
+    "name_en": "Hank Larsson",
+    "name_he": "האנק לארסון",
+    "seasons": [
+      2
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Hank Larsson is the Rock County sheriff, Betsy's father, and Lou Solverson's father-in-law. He works the 1979 murders, is badly hurt, and survives. At the end he is home, building a picture language so people can understand one another.",
+    "bio_he": "האנק לארסון הוא שריף מחוז רוק, אביה של בטסי וחותנו של לו סולוורסון. הוא חוקר את רציחות 1979, נפצע קשה ושורד. בסוף הוא בבית, ובונה שפת ציורים כדי שאנשים יבינו זה את זה.",
+    "also_known_as": []
+  },
+  {
+    "id": "hanzee-dent",
+    "name_en": "Hanzee Dent",
+    "name_he": "הנזי דנט",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Hanzee Dent is the Gerhardt enforcer in 1979. He turns on the family, kills Floyd and Dodd, and takes the name Moses Tripoli. By 2006 he runs the Fargo syndicate that employs Mr. Wrench and Mr. Numbers. Lorne Malvo kills him in the massacre at their offices.",
+    "bio_he": "הנזי דנט הוא האוכף של גרהרדט ב-1979. הוא בוגד במשפחה, הורג את פלויד ואת דוד, ולוקח את השם משה טריפולי. ב-2006 הוא עומד בראש הארגון מפארגו שמעסיק את מר רנץ' ומר נמברס. לורן מאלוו הורג אותו בטבח במשרדים.",
+    "also_known_as": [
+      "Moses Tripoli"
+    ]
+  },
+  {
+    "id": "helena-milos",
+    "name_en": "Helena Milos",
+    "name_he": "הלנה מילוס",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Helena Milos is Stavros Milos's wife. She is with him in 1987 when he finds the buried cash, and she is his ex-wife in 2006. Don Chumph, her trainer, starts the blackmail. She is alive at the end of the season.",
+    "bio_he": "הלנה מילוס היא אשתו של סטברוס מילוס. היא איתו ב-1987 כשהוא מוצא את הכסף הקבור, והיא גרושתו ב-2006. דון צ'אמפ, המאמן שלה, מתחיל את הסחיטה. היא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "hildred-meyer",
+    "name_en": "Hildred Meyer",
+    "name_he": "הילדרד מאייר",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Hildred Meyer is an FBI agent based in Fargo. With Tony Joaquin she presses the case against Sheriff Roy Tillman. She is there when Roy is arrested after the ranch raid. She is alive.",
+    "bio_he": "הילדרד מאייר היא סוכנת אף־בי־איי שבסיסה בפארגו. עם טוני חואקין היא דוחפת את התיק נגד השריף רוי טילמן. היא שם כשרוי נעצר אחרי הפשיטה על החווה. היא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "horst-lagerfeld",
+    "name_en": "Horst Lagerfeld",
+    "name_he": "הורסט לגרפלד",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Horst Lagerfeld is a Stasi colonel in East Berlin in 1988. He interrogates Jakob Ungerleider for a murder committed by Yuri Gurka, because the state has the wrong man. The scene ends with Horst still in command.",
+    "bio_he": "הורסט לגרפלד הוא קולונל בשטאזי בברלין המזרחית ב-1988. הוא חוקר את יעקב אונגרליידר על רצח שביצע יורי גורקה, כי המדינה תפסה את האיש הלא נכון. הסצנה נגמרת כשהורסט עדיין מפקד.",
+    "also_known_as": []
+  },
+  {
+    "id": "howard-zimmerman",
+    "name_en": "Howard Zimmerman",
+    "name_he": "הווארד צימרמן",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Howard Zimmerman is a Los Angeles producer who cons the young writer Thaddeus Mobley with Vivian Lord. Thaddeus beats him and flees. In 2010 Howard is old and disabled, and he lies to Gloria Burgle. He is alive.",
+    "bio_he": "הווארד צימרמן הוא מפיק מלוס אנג'לס שמרמה עם ויוויאן לורד את הסופר הצעיר תדאוס מובלי. תדאוס מכה אותו ובורח. ב-2010 הווארד זקן ונכה, והוא משקר לגלוריה ברגל. הוא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "ida-thurman",
+    "name_en": "Ida Thurman",
+    "name_he": "אידה תורמן",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Ida Thurman is Chief Vern Thurman's pregnant wife. Malvo murders Vern in Lester Nygaard's house. Ida is left a widow carrying their child. She is alive through the rest of the season.",
+    "bio_he": "אידה תורמן היא אשתו ההרה של המפקד ורן תורמן. מאלוו רוצח את ורן בבית של לסטר נייגארד. אידה נשארת אלמנה עם הילד שבדרך. היא בחיים בשאר העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "indira-olmstead",
+    "name_en": "Indira Olmstead",
+    "name_he": "אינדירה אולמסטד",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Indira Olmstead is a Scandia deputy buried in debt and a bad marriage. She investigates Dot Lyon's kidnapping, then leaves the department to run security for Lorraine Lyon. A year later she is alive and visits Witt Farr's grave.",
+    "bio_he": "אינדירה אולמסטד היא סגנית בסקנדיה, שקועה בחובות ובנישואים רעים. היא חוקרת את חטיפת דוט ליון, ואז עוזבת את המשטרה כדי לנהל את האבטחה של לוריין ליון. שנה אחר כך היא בחיים ומבקרת בקבר של וויט פאר.",
+    "also_known_as": []
+  },
+  {
+    "id": "irma",
+    "name_en": "Irma",
+    "name_he": "אירמה",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Irma is an old woman who finds Ole Munch in her house and lets him stay. Gator Tillman comes looking for Munch. He pushes Irma, and she dies when her head hits the sidewalk.",
+    "bio_he": "אירמה היא אישה זקנה שמוצאת את אולה מונך בביתה ונותנת לו להישאר. גייטור טילמן בא לחפש את מונך. הוא דוחף את אירמה, והיא מתה כשראשה נחבט במדרכה.",
+    "also_known_as": []
+  },
+  {
+    "id": "irma-mundt",
+    "name_en": "Irma Mundt",
+    "name_he": "אירמה מונדט",
+    "seasons": [
+      2
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Judge Irma Mundt freezes assets tied to Skip Sprang. Rye Gerhardt corners her at a Waffle Hut in 1979 and demands she undo it. She fights him. Rye shoots her and two workers dead.",
+    "bio_he": "השופטת אירמה מונדט מקפיאה נכסים שקשורים לסקיפ ספרנג. ראי גרהרדט לוכד אותה בוופל האט ב-1979 ודורש שתבטל את זה. היא נלחמת בו. ראי יורה בה ובשני עובדים והורג אותם.",
+    "also_known_as": []
+  },
+  {
+    "id": "irv-blumkin",
+    "name_en": "Irv Blumkin",
+    "name_he": "אירב בלומקין",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Irv Blumkin is the lawyer Emmit Stussy asks to look into V.M. Varga. The search puts a target on him. Yuri Gurka and Meemo throw him off a parking garage and stage the death as a suicide.",
+    "bio_he": "אירב בלומקין הוא עורך הדין שאמיט סטאסי מבקש ממנו לבדוק את וי.אם. ורגה. החיפוש שם עליו מטרה. יורי גורקה ומימו זורקים אותו ממגרש חניה ומביימים את המוות כהתאבדות.",
+    "also_known_as": []
+  },
+  {
+    "id": "jakob-ungerleider",
+    "name_en": "Jakob Ungerleider",
+    "name_he": "יעקב אונגרליידר",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "unknown",
+    "bio_en": "Jakob Ungerleider is an East German man the Stasi accuses of murder in 1988. Yuri Gurka killed the woman, and the state has mixed up two addresses. The show does not say what happens to Jakob after the interrogation.",
+    "bio_he": "יעקב אונגרליידר הוא גרמני מזרחי שהשטאזי מאשים ברצח ב-1988. יורי גורקה הרג את האישה, והמדינה בלבה בין שתי כתובות. הסדרה לא אומרת מה קורה ליעקב אחרי החקירה.",
+    "also_known_as": []
+  },
+  {
+    "id": "jean-lundegaard",
+    "name_en": "Jean Lundegaard",
+    "name_he": "ג'ין לונדגורד",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Jean Lundegaard is Jerry's wife and Wade Gustafson's daughter. Jerry has her kidnapped so he can collect a ransom from her father. At the Moose Lake cabin Gaear Grimsrud kills her because she will not keep quiet.",
+    "bio_he": "ג'ין לונדגורד היא אשתו של ג'רי ובתו של ווייד גוסטפסון. ג'רי מארגן את חטיפתה כדי לגבות כופר מאביה. בבקתה במוס לייק גאיר גרימסרוד הורג אותה כי היא לא שותקת.",
+    "also_known_as": []
+  },
+  {
+    "id": "jemma-stalone",
+    "name_en": "Jemma Stalone",
+    "name_he": "ג'מה סטאלון",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Jemma Stalone is a dental assistant and, for a while, Lorne Malvo's fiancée under his dentist cover. In a Las Vegas hotel elevator Malvo shoots the people with him, including Jemma, after Lester recognizes him.",
+    "bio_he": "ג'מה סטאלון היא סייעת לרופא שיניים, ולזמן מה ארוסתו של לורן מאלוו תחת כיסוי רופא השיניים. במעלית במלון בלאס וגאס מאלוו יורה באנשים שאיתו, כולל ג'מה, אחרי שלסטר מזהה אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "jerome-pugh",
+    "name_en": "Jerome Pugh",
+    "name_he": "ג'רום פיו",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "unknown",
+    "bio_en": "Jerome Pugh is Lorraine Lyon's bodyguard. He stands with her while she pressures bankers, police, and Roy Tillman. The season never shows what becomes of him after the ranch raid.",
+    "bio_he": "ג'רום פיו הוא שומר הראש של לוריין ליון. הוא עומד לצדה כשהיא לוחצת על בנקאים, על המשטרה ועל רוי טילמן. העונה לא מראה מה קורה לו אחרי הפשיטה על החווה.",
+    "also_known_as": []
+  },
+  {
+    "id": "jerry-lundegaard",
+    "name_en": "Jerry Lundegaard",
+    "name_he": "ג'רי לונדגורד",
+    "seasons": [
+      0
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Jerry Lundegaard is a Minneapolis car salesman who hires two men to kidnap his wife and extort his father-in-law. The plan becomes multiple murders. State troopers arrest him at a motel outside Bismarck. He is alive and in custody.",
+    "bio_he": "ג'רי לונדגורד הוא סוכן מכוניות ממיניאפוליס ששוכר שני גברים לחטוף את אשתו ולסחוט את חותנו. התוכנית הופכת לשרשרת רציחות. שוטרי מדינה עוצרים אותו במוטל מחוץ לביסמרק. הוא בחיים ובמעצר.",
+    "also_known_as": []
+  },
+  {
+    "id": "joe-bulo",
+    "name_en": "Joe Bulo",
+    "name_he": "ג'ו בולו",
+    "seasons": [
+      2,
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Joe Bulo is a syndicate soldier. In 1950 he executes Josto Fadda and Oraetta Mayflower for the new Fadda leadership. In 1979 he leads the Kansas City push against the Gerhardts. Hanzee Dent kills him and sends his head to Mike Milligan.",
+    "bio_he": "ג'ו בולו הוא חייל בארגון. ב-1950 הוא מוציא להורג את ג'וסטו פאדה ואת אוראטה מייפלאור עבור ההנהגה החדשה של פאדה. ב-1979 הוא מוביל את דחיפת קנזס סיטי נגד גרהרדט. הנזי דנט הורג אותו ושולח את ראשו למייק מיליגן.",
+    "also_known_as": []
+  },
+  {
+    "id": "jordan-seymore",
+    "name_en": "Jordan Seymore",
+    "name_he": "ג'ורדן סימור",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Jordan Seymore is a foul-mouthed cancer patient at the hospital. Roy Tillman's men grab him by mistake while hunting Wayne Lyon. Roy sees they have the wrong man and kills Jordan.",
+    "bio_he": "ג'ורדן סימור הוא חולה סרטן גס רוח בבית החולים. אנשיו של רוי טילמן חוטפים אותו בטעות בזמן שהם צדים את וויין ליון. רוי רואה שזה האיש הלא נכון והורג את ג'ורדן.",
+    "also_known_as": []
+  },
+  {
+    "id": "josto-fadda",
+    "name_en": "Josto Fadda",
+    "name_he": "ג'וסטו פאדה",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Josto Fadda inherits the Kansas City family after his father dies. He feuds with his brother Gaetano, sleeps with Oraetta Mayflower, and loses control of the war. Ebal Violante has Joe Bulo shoot him in a field.",
+    "bio_he": "ג'וסטו פאדה יורש את המשפחה בקנזס סיטי אחרי מות אביו. הוא מסוכסך עם אחיו גאטאנו, שוכב עם אוראטה מייפלאור, ומאבד שליטה במלחמה. אבאל ויולנטה שולח את ג'ו בולו לירות בו בשדה.",
+    "also_known_as": []
+  },
+  {
+    "id": "karen-tillman",
+    "name_en": "Karen Tillman",
+    "name_he": "קרן טילמן",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Karen Tillman is Roy Tillman's current wife and Odin Little's daughter. She lives on the ranch with their children. When Roy kills her father, she runs. The season leaves her alive.",
+    "bio_he": "קרן טילמן היא אשתו הנוכחית של רוי טילמן ובתו של אודין ליטל. היא גרה בחווה עם ילדיהם. כשרוי הורג את אביה, היא בורחת. העונה משאירה אותה בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "karl-weathers",
+    "name_en": "Karl Weathers",
+    "name_he": "קרל וות'רס",
+    "seasons": [
+      2
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Karl Weathers is Luverne's only lawyer and a barroom patriot. He represents Ed Blumquist and talks Bear Gerhardt's men out of a police station. He lives through the 1979 war and looks after the Solversons.",
+    "bio_he": "קרל וות'רס הוא עורך הדין היחיד בלוורן ופטריוט של בר. הוא מייצג את אד בלומקוויסט ומשכנע את אנשיו של בר גרהרדט לצאת מתחנת המשטרה. הוא שורד את מלחמת 1979 ושומר על משפחת סולוורסון.",
+    "also_known_as": []
+  },
+  {
+    "id": "kitty-nygaard",
+    "name_en": "Kitty Nygaard",
+    "name_he": "קיטי נייגארד",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Kitty Nygaard is Chazz Nygaard's wife and Gordo's mother. She is pulled into the frame Lester builds around her husband. The show does not kill her. She is alive when Chazz is jailed.",
+    "bio_he": "קיטי נייגארד היא אשתו של צ'אז נייגארד ואמו של גורדו. היא נמשכת אל המסגרת שלסטר בונה סביב בעלה. הסדרה לא הורגת אותה. היא בחיים כשצ'אז נכלא.",
+    "also_known_as": []
+  },
+  {
+    "id": "lars-olmstead",
+    "name_en": "Lars Olmstead",
+    "name_he": "לארס אולמסטד",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Lars Olmstead is Indira's husband, a would-be pro golfer who spends money they do not have. He leaves Scotty Lyon alone in the house. Indira moves on without him. He is alive and out of her life.",
+    "bio_he": "לארס אולמסטד הוא בעלה של אינדירה, שואף לגולף מקצועני שמוציא כסף שאין להם. הוא משאיר את סקוטי ליון לבד בבית. אינדירה ממשיכה בלעדיו. הוא בחיים ומחוץ לחייה.",
+    "also_known_as": []
+  },
+  {
+    "id": "larue-dollard",
+    "name_en": "Larue Dollard",
+    "name_he": "לארו דולארד",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Larue Dollard is an IRS agent who audits Stussy Lots after a strange withdrawal. Varga's men scare him off, but he keeps pulling the thread. He helps expose the money scheme. He is alive at the end.",
+    "bio_he": "לארו דולארד הוא סוכן מס הכנסה שמבקר את סטאסי לוטס אחרי משיכה מוזרה. אנשיו של ורגה מבריחים אותו, אבל הוא ממשיך למשוך בחוט. הוא עוזר לחשוף את תרמית הכסף. הוא בחיים בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "lemuel-cannon",
+    "name_en": "Lemuel Cannon",
+    "name_he": "למואל קנון",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Lemuel Cannon is Loy's elder son and part of Cannon Limited. The Faddas try to have him shot, and Odis Weff arrests him during the war. He is alive at home, playing music, when Zelmare kills his father.",
+    "bio_he": "למואל קנון הוא בנו הבכור של לוי וחלק מקנון לימיטד. אנשי פאדה מנסים לירות בו, ואודיס וף עוצר אותו בזמן המלחמה. הוא בחיים בבית, מנגן, כשזלמר הורגת את אביו.",
+    "also_known_as": []
+  },
+  {
+    "id": "lester-nygaard",
+    "name_en": "Lester Nygaard",
+    "name_he": "לסטר נייגארד",
+    "seasons": [
+      1
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Lester Nygaard is a meek Bemidji insurance salesman. After he meets Lorne Malvo he kills his wife Pearl, helps cover Vern Thurman's murder, and frames his brother. He falls through the ice at Glacier National Park and dies.",
+    "bio_he": "לסטר נייגארד הוא סוכן ביטוח כנוע מבמיג'י. אחרי שהוא פוגש את לורן מאלוו הוא הורג את אשתו פרל, עוזר לכסות את רצח ורן תורמן, ומפליל את אחיו. הוא נופל דרך הקרח בפארק הלאומי גליישר ומת.",
+    "also_known_as": []
+  },
+  {
+    "id": "linda-park",
+    "name_en": "Linda Park",
+    "name_he": "לינדה פארק",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Linda Park works with Lester Nygaard at the insurance office and later marries him. In Las Vegas, Lester sends her ahead in his coat because he fears Malvo. Malvo kills her in the office, thinking she is Lester.",
+    "bio_he": "לינדה פארק עובדת עם לסטר נייגארד במשרד הביטוח ואחר כך נישאת לו. בלאס וגאס לסטר שולח אותה קדימה במעיל שלו כי הוא מפחד ממאלוו. מאלוו הורג אותה במשרד, כשהוא חושב שהיא לסטר.",
+    "also_known_as": []
+  },
+  {
+    "id": "lorne-malvo",
+    "name_en": "Lorne Malvo",
+    "name_he": "לורן מאלוו",
+    "seasons": [
+      1
+    ],
+    "faction": "drifter",
+    "fate": "dead",
+    "bio_en": "Lorne Malvo is a hitman with no fixed side who passes through Minnesota in 2006. He kills Sam Hess, Chief Thurman, and the Fargo syndicate, and he uses the names Frank Peterson and Dr. Michaelson. Gus Grimly shoots him dead after a bear trap catches him.",
+    "bio_he": "לורן מאלוו הוא רוצח שכיר בלי צד קבוע שעובר במינסוטה ב-2006. הוא הורג את סם הס, את המפקד תורמן ואת הארגון מפארגו, ומשתמש בשמות פרנק פיטרסון וד״ר מייקלסון. גאס גרימלי יורה בו למוות אחרי שמלכודת דובים תופסת אותו.",
+    "also_known_as": [
+      "Frank Peterson",
+      "Dr. Michaelson"
+    ]
+  },
+  {
+    "id": "lorraine-lyon",
+    "name_en": "Lorraine Lyon",
+    "name_he": "לוריין ליון",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Lorraine Lyon is the billionaire Queen of Debt and Wayne's mother. She first thinks Dot faked a kidnapping. After she learns the truth she ruins Roy Tillman and visits him in prison to promise a worse life. She is alive.",
+    "bio_he": "לוריין ליון היא מלכת החוב המיליארדרית ואמו של וויין. קודם היא חושבת שדוט ביימה חטיפה. אחרי שהיא לומדת את האמת היא הורסת את רוי טילמן ומבקרת אותו בכלא כדי להבטיח לו חיים גרועים יותר. היא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "lou-solverson",
+    "name_en": "Lou Solverson",
+    "name_he": "לו סולוורסון",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Lou Solverson is a Minnesota state trooper in 1979 and Molly's father. He lives through the Sioux Falls massacre and kills Bear Gerhardt. By 2006 he has left the patrol and runs a diner in Bemidji. He is alive.",
+    "bio_he": "לו סולוורסון הוא שוטר מדינה במינסוטה ב-1979 ואביה של מולי. הוא שורד את הטבח בסו פולס והורג את בר גרהרדט. ב-2006 הוא עזב את הסיור ומנהל מסעדה בבמיג'י. הוא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "loy-cannon",
+    "name_en": "Loy Cannon",
+    "name_he": "לוי קנון",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Loy Cannon leads Cannon Limited in 1950 Kansas City and trades his son Satchel to the Fadda family. He fights Josto for the city and wins his boy back. Zelmare Roulette stabs him to death on his porch for Swanee's death.",
+    "bio_he": "לוי קנון עומד בראש קנון לימיטד בקנזס סיטי ב-1950 ומוסר את בנו סאצ'ל למשפחת פאדה. הוא נלחם בג'וסטו על העיר ומקבל את הבן בחזרה. זלמר רולט דוקרת אותו למוות במרפסת בגלל מות סוואני.",
+    "also_known_as": []
+  },
+  {
+    "id": "marge-gunderson",
+    "name_en": "Marge Gunderson",
+    "name_he": "מארג' גנדרסון",
+    "seasons": [
+      0
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Marge Gunderson is the pregnant Brainerd police chief who investigates the 1987 kidnappings and murders. She follows the dealer plates to Jerry Lundegaard and catches Gaear Grimsrud at a woodchipper. She goes home to Norm, alive, and waits for their child.",
+    "bio_he": "מארג' גנדרסון היא מפקדת המשטרה ההרה של בריינרד שחוקרת את החטיפות והרציחות של 1987. היא עוקבת אחרי לוחיות הסוכנות אל ג'רי לונדגורד ותופסת את גאיר גרימסרוד ליד מטחנת עץ. היא חוזרת הביתה אל נורם, בחיים, ומחכה לילד.",
+    "also_known_as": []
+  },
+  {
+    "id": "marvin-stussy",
+    "name_en": "Marvin Stussy",
+    "name_he": "מרווין סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Marvin Stussy is a man who shares the Stussy name and nothing else with Emmit and Ennis. Varga's people cut his throat so the murders will look like the work of one killer. He dies as a prop in that lie.",
+    "bio_he": "מרווין סטאסי הוא אדם שחולק את שם המשפחה סטאסי ותו לא עם אמיט ואניס. אנשיו של ורגה חותכים את גרונו כדי שהרציחות ייראו כמעשה של רוצח אחד. הוא מת כאביזר בשקר הזה.",
+    "also_known_as": []
+  },
+  {
+    "id": "maurice-lefay",
+    "name_en": "Maurice LeFay",
+    "name_he": "מוריס לה-פיי",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Maurice LeFay is a parolee and addict under Ray Stussy. Ray sends him to steal a stamp. He goes to the wrong house and kills Ennis Stussy. Nikki and Ray then drop an air conditioner on his head and kill him.",
+    "bio_he": "מוריס לה-פיי הוא אסיר משוחרר ומכור בפיקוח ריי סטאסי. ריי שולח אותו לגנוב בול. הוא מגיע לבית הלא נכון והורג את אניס סטאסי. אחר כך ניקי וריי מפילים לו מזגן על הראש והורגים אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "max-gold",
+    "name_en": "Max Gold",
+    "name_he": "מקס גולד",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Max Gold is Sam Hess's lawyer. After Sam is murdered he points Mr. Wrench and Mr. Numbers toward a description of the killer. He stays a lawyer, not a target. He is alive at the end of the season.",
+    "bio_he": "מקס גולד הוא עורך הדין של סם הס. אחרי שסם נרצח הוא מפנה את מר רנץ' ומר נמברס לתיאור של הרוצח. הוא נשאר עורך דין, לא מטרה. הוא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "meemo",
+    "name_en": "Meemo",
+    "name_he": "מימו",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Meemo is V.M. Varga's quiet henchman. With Yuri he kills Irv Blumkin and beats Nikki Swango. He stays at Varga's side through the takeover of Stussy Lots. He does not survive the war with Nikki and Mr. Wrench.",
+    "bio_he": "מימו הוא עושה הדבר השקט של וי.אם. ורגה. עם יורי הוא הורג את אירב בלומקין ומכה את ניקי סוואנגו. הוא נשאר לצד ורגה בהשתלטות על סטאסי לוטס. הוא לא שורד את המלחמה עם ניקי ומר רנץ'.",
+    "also_known_as": []
+  },
+  {
+    "id": "mickey-hess",
+    "name_en": "Mickey Hess",
+    "name_he": "מיקי הס",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Mickey Hess is one of Sam Hess's dim sons. With his brother Moe and their mother Gina he leans on Lester over the insurance money. Lester throws them out. Mickey is alive at the end of the season.",
+    "bio_he": "מיקי הס הוא אחד מבניו הכהים של סם הס. עם אחיו מו ואמם ג'ינה הוא לוחץ על לסטר בגלל כספי הביטוח. לסטר זורק אותם החוצה. מיקי בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "mike-milligan",
+    "name_en": "Mike Milligan",
+    "name_he": "מייק מיליגן",
+    "seasons": [
+      2,
+      4
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Mike Milligan is born Michael Cannon and raised as Satchel, Loy Cannon's younger son, under Rabbi Milligan's care. He takes Rabbi's surname. In 1979 he breaks the Gerhardts for Kansas City, then his bosses stick him behind a desk. He is alive.",
+    "bio_he": "מייק מיליגן נולד מייקל קנון וגדל כסאצ'ל, בנו הצעיר של לוי קנון, בטיפולו של רבי מיליגן. הוא לוקח את שם המשפחה של רבי. ב-1979 הוא שובר את גרהרדט עבור קנזס סיטי, ואז הבוסים שלו שמים אותו מאחורי שולחן. הוא בחיים.",
+    "also_known_as": [
+      "Satchel Cannon"
+    ]
+  },
+  {
+    "id": "mike-yanagita",
+    "name_en": "Mike Yanagita",
+    "name_he": "מייק ינגיטה",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Mike Yanagita is Marge Gunderson's old classmate. He asks her to dinner, cries, and claims his wife died. A friend later tells Marge that Mike was never married and has been unwell. He is alive, and the lie pushes Marge back onto the case.",
+    "bio_he": "מייק ינגיטה הוא חבר ישן לכיתה של מארג' גנדרסון. הוא מזמין אותה לארוחה, בוכה, וטוען שאשתו מתה. חברה אומרת אחר כך למארג' שמייק מעולם לא היה נשוי ושהוא לא בקו הבריאות. הוא בחיים, והשקר מחזיר את מארג' לתיק.",
+    "also_known_as": []
+  },
+  {
+    "id": "moe-dammik",
+    "name_en": "Moe Dammik",
+    "name_he": "מו דמיק",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Moe Dammik is the Meeker County sheriff who becomes Gloria Burgle's boss when Eden Valley is absorbed. He calls her evidence coincidence and shuts the Stussy case down. He is alive, and wrong, at the end of his part.",
+    "bio_he": "מו דמיק הוא שריף מחוז מיקר שנעשה הבוס של גלוריה ברגל כשעדן ואלי נבלעת. הוא קורא לראיות שלה צירוף מקרים וסוגר את תיק סטאסי. הוא בחיים, וטועה, בסוף חלקו.",
+    "also_known_as": []
+  },
+  {
+    "id": "moe-hess",
+    "name_en": "Moe Hess",
+    "name_he": "מו הס",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Moe Hess is Sam Hess's other son. He and Mickey follow their mother into Lester Nygaard's office and get nothing. The season does not kill him. He is alive after his father is murdered.",
+    "bio_he": "מו הס הוא בנו השני של סם הס. הוא ומיקי הולכים עם אמם למשרד של לסטר נייגארד ויוצאים בלי כלום. העונה לא הורגת אותו. הוא בחיים אחרי שאביו נרצח.",
+    "also_known_as": []
+  },
+  {
+    "id": "molly-solverson",
+    "name_en": "Molly Solverson",
+    "name_he": "מולי סולוורסון",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Molly Solverson is Lou and Betsy's daughter, a child in 1979 and a Bemidji deputy in 2006. She is the one who ties Lester Nygaard to the murders while her chief will not listen. She marries Gus Grimly, survives a gunshot, and is alive and pregnant at the end.",
+    "bio_he": "מולי סולוורסון היא בתם של לו ובטסי, ילדה ב-1979 וסגנית בבמיג'י ב-2006. היא זו שקושרת את לסטר נייגארד לרציחות בזמן שהמפקד שלה לא מקשיב. היא נישאת לגאס גרימלי, שורדת ירי, ובחיים ובהיריון בסוף.",
+    "also_known_as": []
+  },
+  {
+    "id": "mr-mohra",
+    "name_en": "Mr. Mohra",
+    "name_he": "מר מורה",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Mr. Mohra is a local man who tells Brainerd police about a funny-looking guy at a bar who talked about killing someone. The tip sends Marge Gunderson toward the cabin. Mohra is alive and unhurt.",
+    "bio_he": "מר מורה הוא איש מקומי שמספר למשטרת בריינרד על בחור מוזר בבר שדיבר על הריגת מישהו. הקצה שולח את מארג' גנדרסון אל הבקתה. מורה בחיים ולא נפגע.",
+    "also_known_as": []
+  },
+  {
+    "id": "mr-numbers",
+    "name_en": "Mr. Numbers",
+    "name_he": "מר נמברס",
+    "seasons": [
+      1,
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Grady Numbers, called Mr. Numbers, is the speaking half of a hit team with the deaf Mr. Wrench. As boys they meet Hanzee Dent. In 2006 the Fargo syndicate sends them after Sam Hess's killer. Lorne Malvo kills Numbers in a snowstorm.",
+    "bio_he": "גריידי נמברס, המכונה מר נמברס, הוא החצי המדבר בצוות חיסול עם מר רנץ' החירש. בילדותם הם פוגשים את הנזי דנט. ב-2006 הארגון מפארגו שולח אותם אחרי רוצח סם הס. לורן מאלוו הורג את נמברס בסופת שלג.",
+    "also_known_as": [
+      "Grady Numbers"
+    ]
+  },
+  {
+    "id": "mr-wrench",
+    "name_en": "Mr. Wrench",
+    "name_he": "מר רנץ'",
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Wes Wrench, called Mr. Wrench, is a deaf hitman. He works with Mr. Numbers in 2006, survives Malvo, and in 2010 teams with Nikki Swango against Varga. Years later he shoots Emmit Stussy and walks away alive.",
+    "bio_he": "וס רנץ', המכונה מר רנץ', הוא רוצח שכיר חירש. הוא עובד עם מר נמברס ב-2006, שורד את מאלוו, וב-2010 חובר לניקי סוואנגו נגד ורגה. שנים אחר כך הוא יורה באמיט סטאסי והולך לדרכו בחיים.",
+    "also_known_as": [
+      "Wes Wrench"
+    ]
+  },
+  {
+    "id": "nathan-burgle",
+    "name_en": "Nathan Burgle",
+    "name_he": "נייתן ברגל",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Nathan Burgle is Gloria Burgle's son. He is a boy on the edge of the murder case that consumes his mother. She comes back to him. He is alive at the end of the season.",
+    "bio_he": "נייתן ברגל הוא בנה של גלוריה ברגל. הוא ילד בשולי תיק הרצח שבולע את אמו. היא חוזרת אליו. הוא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "nikki-swango",
+    "name_en": "Nikki Swango",
+    "name_he": "ניקי סוואנגו",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Nikki Swango is a parolee and bridge player engaged to Ray Stussy. She helps kill Maurice LeFay, survives a beating, and with Mr. Wrench wages war on Varga. A state trooper shoots her dead on the road before she can kill Emmit.",
+    "bio_he": "ניקי סוואנגו היא אסירה משוחררת ושחקנית ברידג' מאורסת לריי סטאסי. היא עוזרת להרוג את מוריס לה-פיי, שורדת מכות, ועם מר רנץ' יוצאת למלחמה על ורגה. שוטר מדינה יורה בה למוות על הכביש לפני שהיא מספיקה להרוג את אמיט.",
+    "also_known_as": []
+  },
+  {
+    "id": "noreen-vanderslice",
+    "name_en": "Noreen Vanderslice",
+    "name_he": "נורין ואנדרסלייס",
+    "seasons": [
+      2
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Noreen Vanderslice works at the Luverne butcher shop and reads Camus. She is close to the Blumquists without knowing what is in the freezer. She sits with Betsy Solverson. She is alive at the end of the season.",
+    "bio_he": "נורין ואנדרסלייס עובדת באטליז בלוורן וקוראת את קאמי. היא קרובה לבני בלומקוויסט בלי לדעת מה יש במקפיא. היא יושבת עם בטסי סולוורסון. היא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "norm-gunderson",
+    "name_en": "Norm Gunderson",
+    "name_he": "נורם גנדרסון",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Norm Gunderson is Marge's husband, a wildlife painter. While she solves the murders he stays home and cooks. The Postal Service picks his mallard for a three-cent stamp. He is alive, and they wait together for the baby.",
+    "bio_he": "נורם גנדרסון הוא בעלה של מארג', צייר חיות בר. בזמן שהיא פותרת את הרציחות הוא נשאר בבית ומבשל. שירות הדואר בוחר את ברווז הבר שלו לבול של שלושה סנט. הוא בחיים, והם מחכים יחד לתינוק.",
+    "also_known_as": []
+  },
+  {
+    "id": "odin-little",
+    "name_en": "Odin Little",
+    "name_he": "אודין ליטל",
+    "seasons": [
+      5
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Odin Little leads a local militia and is Karen Tillman's father. He backs Roy Tillman with men and guns. On the porch, while he gloats, Roy cuts his throat.",
+    "bio_he": "אודין ליטל עומד בראש מיליציה מקומית והוא אביה של קרן טילמן. הוא תומך ברוי טילמן באנשים ובנשק. במרפסת, בזמן שהוא מתגאה, רוי חותך את גרונו.",
+    "also_known_as": []
+  },
+  {
+    "id": "odis-weff",
+    "name_en": "Odis Weff",
+    "name_he": "אודיס וף",
+    "seasons": [
+      4
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Odis Weff is a Kansas City cop with severe tics who takes Fadda money and then Cannon orders. He shoots Marshal Wickware and Swanee Capps at the train station. The Fadda brothers later kill him.",
+    "bio_he": "אודיס וף הוא שוטר בקנזס סיטי עם טיקים קשים שלוקח כסף מפאדה ואחר כך פקודות מקנון. הוא יורה במרשל ויקאוור ובסוואני קאפס בתחנת הרכבת. האחים פאדה הורגים אותו אחר כך.",
+    "also_known_as": []
+  },
+  {
+    "id": "ole-munch",
+    "name_en": "Ole Munch",
+    "name_he": "אולה מונך",
+    "seasons": [
+      5
+    ],
+    "faction": "drifter",
+    "fate": "alive",
+    "bio_en": "Ole Munch is a sin-eater who has walked since he was Bryn Glas in Wales five hundred years ago. Roy hires him to take Dot. He blinds Gator, frees Dot, and a year later eats a biscuit at her table and smiles. He is alive.",
+    "bio_he": "אולה מונך הוא אוכל חטאים שהולך מאז שהיה ברין גלאס בוויילס לפני חמש מאות שנה. רוי שוכר אותו לקחת את דוט. הוא מסמא את גייטור, משחרר את דוט, ושנה אחר כך אוכל ביסקוויט ליד שולחנה ומחייך. הוא בחיים.",
+    "also_known_as": [
+      "Bryn Glas"
+    ]
+  },
+  {
+    "id": "omie-sparkman",
+    "name_en": "Omie Sparkman",
+    "name_he": "אומי ספארקמן",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Omie Sparkman is a former boxer in Loy Cannon's crew. He is in the fight when Constant Calamita corners Rabbi and Satchel at a gas station. The tornado takes Omie with Calamita and Rabbi.",
+    "bio_he": "אומי ספארקמן הוא מתאגרף לשעבר בצוות של לוי קנון. הוא בקרב כשקונסטנט קלאמיטה לוכד את רבי ואת סאצ'ל בתחנת דלק. הטורנדו לוקח את אומי עם קלאמיטה ורבי.",
+    "also_known_as": []
+  },
+  {
+    "id": "opal-rackley",
+    "name_en": "Opal Rackley",
+    "name_he": "אופל רקלי",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "unknown",
+    "bio_en": "Opal Rackley is a soldier in Cannon Limited during the 1950 war with the Faddas. He works Loy's side of the killings and the deals. The season does not show a clear end for him.",
+    "bio_he": "אופל רקלי הוא חייל בקנון לימיטד במלחמת 1950 נגד פאדה. הוא עובד בצד של לוי בהריגות ובעסקאות. העונה לא מראה סוף ברור עבורו.",
+    "also_known_as": []
+  },
+  {
+    "id": "oraetta-mayflower",
+    "name_en": "Oraetta Mayflower",
+    "name_he": "אוראטה מייפלאור",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Oraetta Mayflower is a cheerful nurse who murders patients, including Donatello Fadda. She keeps trophies, poisons a pie, and takes up with Josto. Ebal's men haul her to a field. She watches Josto die, then they shoot her.",
+    "bio_he": "אוראטה מייפלאור היא אחות עליזה שרוצחת מטופלים, כולל דונטלו פאדה. היא שומרת מזכרות, מרעילה פאי, ונקשרת לג'וסטו. אנשיו של אבאל גוררים אותה לשדה. היא רואה את ג'וסטו מת, ואז הם יורים בה.",
+    "also_known_as": []
+  },
+  {
+    "id": "otto-gerhardt",
+    "name_en": "Otto Gerhardt",
+    "name_he": "אוטו גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Otto Gerhardt is the patriarch of the Fargo family. A stroke takes his speech and his power in 1979 and sets his sons against each other. Mike Milligan's crew kills him in a raid on the family house.",
+    "bio_he": "אוטו גרהרדט הוא אבי משפחת פארגו. שבץ לוקח לו את הדיבור ואת הכוח ב-1979 ומעמיד את בניו זה נגד זה. הצוות של מייק מיליגן הורג אותו בפשיטה על בית המשפחה.",
+    "also_known_as": []
+  },
+  {
+    "id": "owen-muscavage",
+    "name_en": "Owen Muscavage",
+    "name_he": "אוון מסקווייג'",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Owen Muscavage is the Scandia police captain and Indira Olmstead's boss. He oversees the department while she works the Lyon kidnapping. The season does not kill him. He is alive when she leaves the job.",
+    "bio_he": "אוון מסקווייג' הוא מפקד משטרת סקנדיה והבוס של אינדירה אולמסטד. הוא מפקח על המחלקה בזמן שהיא עובדת על חטיפת ליון. העונה לא הורגת אותו. הוא בחיים כשהיא עוזבת את התפקיד.",
+    "also_known_as": []
+  },
+  {
+    "id": "paul-marrane",
+    "name_en": "Paul Marrane",
+    "name_he": "פול מראן",
+    "seasons": [
+      3
+    ],
+    "faction": "drifter",
+    "fate": "unknown",
+    "bio_en": "Paul Marrane is a calm stranger who meets Gloria on a plane, helps Nikki Swango, and knows Yuri Gurka's sins by name. He may be more than a man. The show never says what he is or where he goes.",
+    "bio_he": "פול מראן הוא זר רגוע שפוגש את גלוריה במטוס, עוזר לניקי סוואנגו, ומכיר בשמם את חטאיו של יורי גורקה. אולי הוא יותר מאדם. הסדרה לא אומרת מה הוא ולאן הוא הולך.",
+    "also_known_as": []
+  },
+  {
+    "id": "pearl-nygaard",
+    "name_en": "Pearl Nygaard",
+    "name_he": "פרל נייגארד",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Pearl Nygaard is Lester's belittling wife. After Sam Hess is killed she mocks Lester at home. He hits her with a hammer and kills her, then stages a break-in. Her death is the start of his spree.",
+    "bio_he": "פרל נייגארד היא אשתו המזלזלת של לסטר. אחרי שסם הס נהרג היא לועגת ללסטר בבית. הוא מכה אותה בפטיש והורג אותה, ואז מביים פריצה. מותה הוא תחילת המסע שלו.",
+    "also_known_as": []
+  },
+  {
+    "id": "peggy-blumquist",
+    "name_en": "Peggy Blumquist",
+    "name_he": "פגי בלומקוויסט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Peggy Blumquist is a Luverne hairdresser who hits Rye Gerhardt with her car and hides the body with her husband Ed. She kidnaps Dodd and dreams of a life seminar in California. Police arrest her. She is alive and in custody.",
+    "bio_he": "פגי בלומקוויסט היא ספרית מלוורן שפוגעת בראי גרהרדט עם המכונית ומחביאה את הגופה עם בעלה אד. היא חוטפת את דוד וחולמת על סמינר חיים בקליפורניה. המשטרה עוצרת אותה. היא בחיים ובמעצר.",
+    "also_known_as": []
+  },
+  {
+    "id": "phil-mccormick",
+    "name_en": "Phil McCormick",
+    "name_he": "פיל מקומיק",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Phil McCormick is the man Lorne Malvo kidnaps over gambling debts. He escapes the trunk naked after the car hits a deer and runs into the woods outside Bemidji. He freezes to death. Police find his body.",
+    "bio_he": "פיל מקומיק הוא האיש שלורן מאלוו חוטף בגלל חובות הימורים. הוא בורח מתא המטען עירום אחרי שהמכונית פוגעת בצבי ורץ ליער מחוץ לבמיג'י. הוא קופא למוות. המשטרה מוצאת את גופתו.",
+    "also_known_as": []
+  },
+  {
+    "id": "rabbi-milligan",
+    "name_en": "Rabbi Milligan",
+    "name_he": "רבי מיליגן",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Patrick Milligan, called Rabbi, was traded as a boy between Kansas City gangs and made to help destroy his own family. In 1950 he guards Loy Cannon's son Satchel and then runs with him. A tornado kills Rabbi while Satchel lives.",
+    "bio_he": "פטריק מיליגן, המכונה רבי, נמסר בילדותו בין כנופיות קנזס סיטי ונאלץ לעזור להשמיד את משפחתו. ב-1950 הוא שומר על סאצ'ל, בנו של לוי קנון, ואז בורח איתו. טורנדו הורג את רבי בזמן שסאצ'ל חי.",
+    "also_known_as": [
+      "Patrick Milligan"
+    ]
+  },
+  {
+    "id": "ray-stussy",
+    "name_en": "Ray Stussy",
+    "name_he": "ריי סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Ray Stussy is a parole officer who believes his brother Emmit cheated him out of a rare stamp. With Nikki Swango he sets a theft in motion that kills two men. In a fight, the stamp's glass cuts Ray's throat and he dies.",
+    "bio_he": "ריי סטאסי הוא קצין מבחן שמאמין שאחיו אמיט רימה אותו בבול נדיר. עם ניקי סוואנגו הוא מניע גנבה שהורגת שני גברים. בקטטה הזכוכית של הבול חותכת את גרונו של ריי והוא מת.",
+    "also_known_as": []
+  },
+  {
+    "id": "ronald-reagan",
+    "name_en": "Ronald Reagan",
+    "name_he": "רונלד רייגן",
+    "seasons": [
+      2
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Ronald Reagan passes through the 1979 story as a presidential candidate. Lou Solverson draws the security detail and hears the stump speech. Reagan leaves the stop unhurt and alive.",
+    "bio_he": "רונלד רייגן עובר בסיפור של 1979 כמועמד לנשיאות. לו סולוורסון מקבל את אבטחת הביקור ושומע את נאום הבחירות. רייגן עוזב את התחנה בלי פגע ובחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "roy-tillman",
+    "name_en": "Roy Tillman",
+    "name_he": "רוי טילמן",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Roy Tillman is the constitutional sheriff of Stark County and Dot's abusive ex-husband. He hires Ole Munch to bring her back, kills Witt Farr, and is arrested at his own escape tunnel. A year later he is alive in federal prison.",
+    "bio_he": "רוי טילמן הוא השריף החוקתי של מחוז סטארק ובעלה לשעבר המתעלל של דוט. הוא שוכר את אולה מונך להחזיר אותה, הורג את וויט פאר, ונעצר במנהרת המילוט שלו. שנה אחר כך הוא בחיים בכלא פדרלי.",
+    "also_known_as": []
+  },
+  {
+    "id": "ruby-goldfarb",
+    "name_en": "Ruby Goldfarb",
+    "name_he": "רובי גולדפרב",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Ruby Goldfarb is a rich widow who offers to buy Stussy Lots. She is in league with V.M. Varga and takes the company for almost nothing after he guts it. She walks away alive and uncharged.",
+    "bio_he": "רובי גולדפרב היא אלמנה עשירה שמציעה לקנות את סטאסי לוטס. היא בקנוניה עם וי.אם. ורגה ולוקחת את החברה כמעט בחינם אחרי שהוא מרוקן אותה. היא הולכת לדרכה בחיים ובלי כתב אישום.",
+    "also_known_as": []
+  },
+  {
+    "id": "rye-gerhardt",
+    "name_en": "Rye Gerhardt",
+    "name_he": "ראי גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Rye Gerhardt is the youngest Gerhardt brother, small-time and in debt. He murders Judge Mundt and two diner workers, then stumbles into Peggy Blumquist's car. Ed stabs him to death in the garage.",
+    "bio_he": "ראי גרהרדט הוא האח הצעיר בגרהרדט, קטן ועמוס בחובות. הוא רוצח את השופטת מונדט ושני עובדי מסעדה, ואז נופל לתוך המכונית של פגי בלומקוויסט. אד דוקר אותו למוות במוסך.",
+    "also_known_as": []
+  },
+  {
+    "id": "sam-hess",
+    "name_en": "Sam Hess",
+    "name_he": "סם הס",
+    "seasons": [
+      1
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Sam Hess is a truck-lot bully tied to the Fargo syndicate and Lester Nygaard's old tormentor. He breaks Lester's nose in a store. Lorne Malvo kills him soon after. His death brings Mr. Wrench and Mr. Numbers to town.",
+    "bio_he": "סם הס הוא בריון ממגרש משאיות שקשור לארגון פארגו והמענה הישן של לסטר נייגארד. הוא שובר ללסטר את האף בחנות. לורן מאלוו הורג אותו זמן קצר אחר כך. מותו מביא לעיירה את מר רנץ' ומר נמברס.",
+    "also_known_as": []
+  },
+  {
+    "id": "scotty-lundegaard",
+    "name_en": "Scotty Lundegaard",
+    "name_he": "סקוטי לונדגורד",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Scotty Lundegaard is Jerry and Jean's son. He is a teenager at home while his father arranges the kidnapping. He loses his mother and sees his father arrested. He himself is alive at the end of the film.",
+    "bio_he": "סקוטי לונדגורד הוא בנם של ג'רי וג'ין. הוא נער בבית בזמן שאביו מארגן את החטיפה. הוא מאבד את אמו ורואה את אביו נעצר. הוא עצמו בחיים בסוף הסרט.",
+    "also_known_as": []
+  },
+  {
+    "id": "scotty-lyon",
+    "name_en": "Scotty Lyon",
+    "name_he": "סקוטי ליון",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Scotty Lyon is the nine-year-old daughter of Dot and Wayne. She helps her mother trap the house and hides with family while Roy's men hunt them. A year later she is alive, home, and at Witt Farr's grave with her mother.",
+    "bio_he": "סקוטי ליון היא בתם בת התשע של דוט ווויין. היא עוזרת לאמה למלכד את הבית ומסתתרת עם המשפחה בזמן שאנשיו של רוי צדים אותן. שנה אחר כך היא בחיים, בבית, וליד הקבר של וויט פאר עם אמה.",
+    "also_known_as": []
+  },
+  {
+    "id": "shep-proudfoot",
+    "name_en": "Shep Proudfoot",
+    "name_he": "שפ פראודפוט",
+    "seasons": [
+      0
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Shep Proudfoot is a mechanic and parolee at Wade Gustafson's dealership. He connects Jerry Lundegaard to Carl Showalter and Gaear Grimsrud. After police attention falls on him, he beats Carl. The film does not kill him.",
+    "bio_he": "שפ פראודפוט הוא מכונאי ואסיר משוחרר בסוכנות של ווייד גוסטפסון. הוא מחבר את ג'רי לונדגורד לקרל שוואלטר ולגאיר גרימסרוד. אחרי שתשומת לב המשטרה נופלת עליו, הוא מכה את קרל. הסרט לא הורג אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "simone-gerhardt",
+    "name_en": "Simone Gerhardt",
+    "name_he": "סימון גרהרדט",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Simone Gerhardt is Dodd's daughter. She resents him, sleeps with Mike Milligan, and feeds Kansas City information. She asks Mike to kill her father. Her uncle Bear drives her into the woods and shoots her.",
+    "bio_he": "סימון גרהרדט היא בתו של דוד. היא שונאת אותו, שוכבת עם מייק מיליגן, ומזינה את קנזס סיטי במידע. היא מבקשת ממייק להרוג את אביה. דודה בר לוקח אותה ליער ויורה בה.",
+    "also_known_as": []
+  },
+  {
+    "id": "skip-sprang",
+    "name_en": "Skip Sprang",
+    "name_he": "סקיפ ספרנג",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Skip Sprang owns a typewriter shop and is Rye Gerhardt's partner in a jammed deal. Rye kills a judge over Skip's frozen money. Dodd Gerhardt has Skip buried alive when he cannot produce Rye.",
+    "bio_he": "סקיפ ספרנג הוא בעל חנות מכונות כתיבה והשותף של ראי גרהרדט בעסקה תקועה. ראי הורג שופטת בגלל הכסף הקפוא של סקיפ. דוד גרהרדט קובר את סקיפ בחיים כשהוא לא מצליח להביא את ראי.",
+    "also_known_as": []
+  },
+  {
+    "id": "sonny-greer",
+    "name_en": "Sonny Greer",
+    "name_he": "סוני גריר",
+    "seasons": [
+      2
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Sonny Greer is a Luverne mechanic and Karl Weathers's friend. He is part of the town around the Blumquists while the Gerhardt war closes in. He survives the season.",
+    "bio_he": "סוני גריר הוא מכונאי מלוורן וידיד של קרל וות'רס. הוא חלק מהעיירה סביב בני בלומקוויסט בזמן שמלחמת גרהרדט מתקרבת. הוא שורד את העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "stan-grossman",
+    "name_en": "Stan Grossman",
+    "name_he": "סטן גרוסמן",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Stan Grossman is Wade Gustafson's accountant and adviser. He sits in on the deal that cuts Jerry out and on the ransom talks. He does not go to the parking garage. He is alive when Wade is killed.",
+    "bio_he": "סטן גרוסמן הוא רואה החשבון והיועץ של ווייד גוסטפסון. הוא יושב בעסקה שמוציאה את ג'רי ובשיחות הכופר. הוא לא הולך לחניון. הוא בחיים כשווייד נהרג.",
+    "also_known_as": []
+  },
+  {
+    "id": "stavros-milos",
+    "name_en": "Stavros Milos",
+    "name_he": "סטברוס מילוס",
+    "seasons": [
+      1
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Stavros Milos is the Supermarket King of Minnesota. In 1987 he finds a case of cash in the snow and builds a fortune on it. In 2006 Malvo fake-plagues him until he buries the blackmail money. His son dies. Stavros lives.",
+    "bio_he": "סטברוס מילוס הוא מלך הסופרמרקטים של מינסוטה. ב-1987 הוא מוצא מזוודת כסף בשלג ובונה עליה הון. ב-2006 מאלוו מעמיד לו מכות מזויפות עד שהוא קובר את כסף הסחיטה. בנו מת. סטברוס חי.",
+    "also_known_as": []
+  },
+  {
+    "id": "stella-stussy",
+    "name_en": "Stella Stussy",
+    "name_he": "סטלה סטאסי",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Stella Stussy is Emmit's wife. A sex tape that Ray and Nikki aim at Emmit reaches her first, and she leaves. Years later she takes Emmit back. She is alive in the house when Mr. Wrench kills him.",
+    "bio_he": "סטלה סטאסי היא אשתו של אמיט. סרטון מין שריי וניקי מכוונים לאמיט מגיע קודם אליה, והיא עוזבת. שנים אחר כך היא מקבלת את אמיט בחזרה. היא בחיים בבית כשמר רנץ' הורג אותו.",
+    "also_known_as": []
+  },
+  {
+    "id": "swanee-capps",
+    "name_en": "Swanee Capps",
+    "name_he": "סוואני קאפס",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Swanee Capps is Zelmare Roulette's partner and lover, an escaped robber. She eats Oraetta's poisoned pie and still rides with Zelmare. At the train station Odis Weff shoots her dead. Zelmare gets away.",
+    "bio_he": "סוואני קאפס היא השותפה והאהובה של זלמר רולט, שודדת נמלטת. היא אוכלת מהפאי המורעל של אוראטה ועדיין רוכבת עם זלמר. בתחנת הרכבת אודיס וף יורה בה והורג אותה. זלמר בורחת.",
+    "also_known_as": []
+  },
+  {
+    "id": "sy-feltz",
+    "name_en": "Sy Feltz",
+    "name_he": "סיי פלץ",
+    "seasons": [
+      3
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Sy Feltz is Emmit Stussy's loyal partner. He tries to hold the company together, takes Varga's humiliations, and is poisoned into a coma. He survives, badly disabled, and is alive at dinner years later.",
+    "bio_he": "סיי פלץ הוא השותף הנאמן של אמיט סטאסי. הוא מנסה להחזיק את החברה, סופג את ההשפלות של ורגה, ומורעל עד תרדמת. הוא שורד, נכה קשה, ובחיים בארוחה שנים אחר כך.",
+    "also_known_as": []
+  },
+  {
+    "id": "thurman-smutny",
+    "name_en": "Thurman Smutny",
+    "name_he": "תורמן סמאטני",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Thurman Smutny owns the funeral home and is Ethelrida's father. He takes a loan from Loy Cannon that he cannot pay, and Loy seizes the business as a front. The family gets the house back. Thurman is alive.",
+    "bio_he": "תורמן סמאטני הוא בעל בית הלוויות ואביה של אתלרידה. הוא לוקח הלוואה מלוי קנון שאינו יכול להחזיר, ולוי תופס את העסק ככיסוי. המשפחה מקבלת את הבית בחזרה. תורמן בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "tony-joaquin",
+    "name_en": "Tony Joaquin",
+    "name_he": "טוני חואקין",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Tony Joaquin is an FBI agent out of Fargo working with Hildred Meyer. He pushes a case against Roy Tillman's militia ties. He is on the arrest at the end of the ranch tunnel. He is alive.",
+    "bio_he": "טוני חואקין הוא סוכן אף־בי־איי מפארגו שעובד עם הילדרד מאייר. הוא דוחף תיק נגד הקשרים של רוי טילמן למיליציה. הוא במעצר בקצה מנהרת החווה. הוא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "vern-thurman",
+    "name_en": "Vern Thurman",
+    "name_he": "ורן תורמן",
+    "seasons": [
+      1
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Vern Thurman is the Bemidji police chief and Molly Solverson's mentor. He comes to Lester Nygaard's house after Pearl is killed. Lorne Malvo shoots him in the hallway. His death makes Bill Oswalt chief.",
+    "bio_he": "ורן תורמן הוא מפקד משטרת במיג'י והמנטור של מולי סולוורסון. הוא בא לבית של לסטר נייגארד אחרי שפרל נהרגת. לורן מאלוו יורה בו במסדרון. מותו הופך את ביל אוסוולט למפקד.",
+    "also_known_as": []
+  },
+  {
+    "id": "virgil-bauer",
+    "name_en": "Virgil Bauer",
+    "name_he": "וירג'יל באואר",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Virgil Bauer is one of Dodd Gerhardt's men. Dodd sends him with Charlie to kill the butcher Ed Blumquist. The attempt burns the shop. Virgil is killed there.",
+    "bio_he": "וירג'יל באואר הוא אחד מאנשיו של דוד גרהרדט. דוד שולח אותו עם צ'רלי להרוג את הקצב אד בלומקוויסט. הניסיון שורף את החנות. וירג'יל נהרג שם.",
+    "also_known_as": []
+  },
+  {
+    "id": "vivian-lord",
+    "name_en": "Vivian Lord",
+    "name_he": "ויוויאן לורד",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Vivian Lord is an actress who helps Howard Zimmerman con Thaddeus Mobley in 1975. She takes the writer's money and his trust. In 2010 she is older and finally tells Gloria Burgle the truth. She is alive.",
+    "bio_he": "ויוויאן לורד היא שחקנית שעוזרת להווארד צימרמן לרמות את תדאוס מובלי ב-1975. היא לוקחת את כסף הסופר ואת אמונו. ב-2010 היא מבוגרת ומספרת סוף סוף לגלוריה ברגל את האמת. היא בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "vm-varga",
+    "name_en": "V.M. Varga",
+    "name_he": "וי.אם. ורגה",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "unknown",
+    "bio_en": "V.M. Varga is a British crook who moves into Emmit Stussy's company and will not leave. He humbles Sy, orders murders, and slips away. Years later, under the name Daniel Rand, he sits with Gloria Burgle. The show does not say if he walks free.",
+    "bio_he": "וי.אם. ורגה הוא נוכל בריטי שנכנס לחברה של אמיט סטאסי ולא יוצא. הוא משפיל את סיי, מורה על רציחות, ונמלט. שנים אחר כך, בשם דניאל ראנד, הוא יושב מול גלוריה ברגל. הסדרה לא אומרת אם הוא יוצא לחופשי.",
+    "also_known_as": [
+      "Daniel Rand"
+    ]
+  },
+  {
+    "id": "wade-gustafson",
+    "name_en": "Wade Gustafson",
+    "name_he": "ווייד גוסטפסון",
+    "seasons": [
+      0
+    ],
+    "faction": "civilian",
+    "fate": "dead",
+    "bio_en": "Wade Gustafson is Jean's rich father and the owner of the car dealership where Jerry works. He insists on delivering the ransom himself. Carl Showalter shoots him in a parking garage. Wade dies there.",
+    "bio_he": "ווייד גוסטפסון הוא אביה העשיר של ג'ין ובעל סוכנות המכוניות שבה ג'רי עובד. הוא מתעקש למסור את הכופר בעצמו. קרל שוואלטר יורה בו בחניון. ווייד מת שם.",
+    "also_known_as": []
+  },
+  {
+    "id": "wally-semenchko",
+    "name_en": "Wally Semenchko",
+    "name_he": "וולי סמנצ'קו",
+    "seasons": [
+      1
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Wally Semenchko is Stavros Milos's enforcer and driver. He is in the car with Stavros's son on the day Stavros buries the blackmail money. The car crashes. Wally and the boy die.",
+    "bio_he": "וולי סמנצ'קו הוא האוכף והנהג של סטברוס מילוס. הוא במכונית עם בנו של סטברוס ביום שסטברוס קובר את כסף הסחיטה. המכונית מתהפכת. וולי והילד מתים.",
+    "also_known_as": []
+  },
+  {
+    "id": "wayne-kitchen",
+    "name_en": "Wayne Kitchen",
+    "name_he": "וויין קיצ'ן",
+    "seasons": [
+      2
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Wayne Kitchen is Gale's twin and part of Mike Milligan's Kansas City crew in 1979. He rides along on the Gerhardt takeover. Hanzee Dent kills him on a hunting trip and leaves Gale as the surviving brother.",
+    "bio_he": "וויין קיצ'ן הוא התאום של גייל וחלק מהצוות של מייק מיליגן מקנזס סיטי ב-1979. הוא נוסע איתם בהשתלטות על גרהרדט. הנזי דנט הורג אותו בטיול ציד ומשאיר את גייל כאח ששרד.",
+    "also_known_as": []
+  },
+  {
+    "id": "wayne-lyon",
+    "name_en": "Wayne Lyon",
+    "name_he": "וויין ליון",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Wayne Lyon owns a small car lot and is Dot's gentle husband and Scotty's father. He is electrocuted by one of Dot's traps and nearly dies. He recovers, stands by her, and is alive at the chili dinner a year later.",
+    "bio_he": "וויין ליון הוא בעל מגרש מכוניות קטן, בעלה העדין של דוט ואביה של סקוטי. הוא נחשמל מאחת המלכודות של דוט וכמעט מת. הוא מחלים, עומד לצדה, ובחיים בארוחת הצ'ילי שנה אחר כך.",
+    "also_known_as": []
+  },
+  {
+    "id": "webb-pepper",
+    "name_en": "Webb Pepper",
+    "name_he": "וב פפר",
+    "seasons": [
+      1
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Webb Pepper is the FBI agent teamed with Bill Budge. They are on a dull watch when Malvo kills the Fargo syndicate behind them. Both are demoted to file clerks. Pepper is alive.",
+    "bio_he": "וב פפר הוא סוכן האף־בי־איי שעובד עם ביל באג'. הם בשמירה משעממת כשמאלוו הורג את הארגון מפארגו מאחוריהם. שניהם מורדים לפקידי ארכיון. פפר בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "wink-lyon",
+    "name_en": "Wink Lyon",
+    "name_he": "ווינק ליון",
+    "seasons": [
+      5
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Wink Lyon is Lorraine's husband and Wayne's father. He drinks and studies old battles while his wife runs the debt empire. He is alive through the Tillman crisis.",
+    "bio_he": "ווינק ליון הוא בעלה של לוריין ואביו של וויין. הוא שותה ולומד קרבות ישנים בזמן שאשתו מנהלת את אימפריית החוב. הוא בחיים לאורך משבר טילמן.",
+    "also_known_as": []
+  },
+  {
+    "id": "winnie-lopez",
+    "name_en": "Winnie Lopez",
+    "name_he": "וויני לופז",
+    "seasons": [
+      3
+    ],
+    "faction": "law",
+    "fate": "alive",
+    "bio_en": "Winnie Lopez is a St. Cloud officer who joins Gloria Burgle on the Stussy deaths. She follows the car crash, the brothers, and the money when her own bosses will not. She is alive at the end of the season.",
+    "bio_he": "וויני לופז היא שוטרת מסנט קלאוד שמצטרפת לגלוריה ברגל בחקירת מות סטאסי. היא עוקבת אחרי תאונת המכונית, האחים והכסף כשהמפקדים שלה לא מוכנים. היא בחיים בסוף העונה.",
+    "also_known_as": []
+  },
+  {
+    "id": "witt-farr",
+    "name_en": "Witt Farr",
+    "name_he": "וויט פאר",
+    "seasons": [
+      5
+    ],
+    "faction": "law",
+    "fate": "dead",
+    "bio_en": "Witt Farr is a North Dakota state trooper. Dot Lyon saves him at a gas station after Munch shoots him. He spends the season trying to repay that debt. Roy Tillman stabs him to death in an escape tunnel.",
+    "bio_he": "וויט פאר הוא שוטר מדינה בצפון דקוטה. דוט ליון מצילה אותו בתחנת דלק אחרי שמונך יורה בו. הוא מבלה את העונה בניסיון להחזיר את החוב. רוי טילמן דוקר אותו למוות במנהרת מילוט.",
+    "also_known_as": [
+      "Whitley Farr"
+    ]
+  },
+  {
+    "id": "yuri-gurka",
+    "name_en": "Yuri Gurka",
+    "name_he": "יורי גורקה",
+    "seasons": [
+      3
+    ],
+    "faction": "crime",
+    "fate": "dead",
+    "bio_en": "Yuri Gurka is a Ukrainian killer working for V.M. Varga. In 1988 he murders a woman in East Berlin and another man is blamed. In Minnesota he hunts Nikki Swango. Mr. Wrench cuts off his ear, and Yuri bleeds to death.",
+    "bio_he": "יורי גורקה הוא רוצח אוקראיני שעובד עבור וי.אם. ורגה. ב-1988 הוא רוצח אישה בברלין המזרחית וגבר אחר מואשם. במינסוטה הוא צד את ניקי סוואנגו. מר רנץ' חותך את אוזנו, ויורי מת מדימום.",
+    "also_known_as": []
+  },
+  {
+    "id": "zelmare-roulette",
+    "name_en": "Zelmare Roulette",
+    "name_he": "זלמר רולט",
+    "seasons": [
+      4
+    ],
+    "faction": "crime",
+    "fate": "alive",
+    "bio_en": "Zelmare Roulette is Dibrell's sister and an escaped bank robber. She and Swanee Capps steal from Loy Cannon. After Odis kills Swanee, Zelmare comes back and stabs Loy on his porch. She walks away alive.",
+    "bio_he": "זלמר רולט היא אחותה של דיברל ושודדת בנקים נמלטת. היא וסוואני קאפס גונבות מלוי קנון. אחרי שאודיס הורג את סוואני, זלמר חוזרת ודוקרת את לוי במרפסת. היא הולכת לדרכה בחיים.",
+    "also_known_as": []
+  },
+  {
+    "id": "zero-fadda",
+    "name_en": "Zero Fadda",
+    "name_he": "זירו פאדה",
+    "seasons": [
+      4
+    ],
+    "faction": "civilian",
+    "fate": "alive",
+    "bio_en": "Zero Fadda is Donatello's youngest son, traded to the Cannon household when Satchel is traded to the Faddas. He lives through the war as a child hostage. He is alive in Ebal Violante's car at the end.",
+    "bio_he": "זירו פאדה הוא בנו הצעיר של דונטלו, שנמסר לבית קנון כשסאצ'ל נמסר לפאדה. הוא עובר את המלחמה כבן ערובה ילד. הוא בחיים במכונית של אבאל ויולנטה בסוף.",
+    "also_known_as": []
+  }
+]
