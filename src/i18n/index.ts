@@ -4,7 +4,16 @@ export type Lang = 'he' | 'en'
 
 const STORAGE_KEY = 'fargo-atlas.lang'
 
-let lang: Lang = localStorage.getItem(STORAGE_KEY) === 'en' ? 'en' : 'he'
+// Storage can be blocked (privacy mode); the site still works without it.
+const stored = (): string | null => {
+  try {
+    return localStorage.getItem(STORAGE_KEY)
+  } catch {
+    return null
+  }
+}
+
+let lang: Lang = stored() === 'en' ? 'en' : 'he'
 let strings: Partial<Record<Key, string>> = {}
 
 export const getLang = (): Lang => lang
@@ -19,12 +28,21 @@ export function t(key: Key, vars: Record<string, string | number> = {}): string 
   return text
 }
 
-/** Switch language: load its locale file, set <html lang dir>, fire `langchange`. */
+/**
+ * Switch language: set <html lang dir>, fire `langchange` at once (English defaults),
+ * then load the locale file and fire `langchange` again.
+ */
 export async function setLang(next: Lang): Promise<void> {
   lang = next
-  localStorage.setItem(STORAGE_KEY, next)
+  try {
+    localStorage.setItem(STORAGE_KEY, next)
+  } catch {
+    // ignore: see stored()
+  }
   document.documentElement.lang = next
   document.documentElement.dir = next === 'he' ? 'rtl' : 'ltr'
+  strings = {}
+  window.dispatchEvent(new Event('langchange'))
   try {
     const res = await fetch(`${import.meta.env.BASE_URL}locales/${next}.json`)
     strings = res.ok ? await res.json() : {}
