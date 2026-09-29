@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "episodes.schema.json",
+  "title": "Fargo episodes",
+  "description": "The 1996 film (season 0) and every TV episode.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id", "season", "number", "title_en", "title_he", "air_date", "story_year",
+      "director", "writers", "synopsis_en", "synopsis_he", "link_ids"
+    ],
+    "properties": {
+      "id": { "type": "string", "pattern": "^(FILM|S[1-5]E\\d{2})$" },
+      "season": { "type": "integer", "minimum": 0, "maximum": 5 },
+      "number": { "type": "integer", "minimum": 0 },
+      "title_en": { "type": "string", "minLength": 1 },
+      "title_he": { "type": "string", "minLength": 1 },
+      "air_date": { "type": "string", "format": "date" },
+      "story_year": { "type": "integer", "minimum": 1900, "maximum": 2030 },
+      "director": { "type": "string", "minLength": 1 },
+      "writers": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+      "synopsis_en": { "type": "string", "minLength": 1, "maxWords": 90 },
+      "synopsis_he": { "type": "string", "minLength": 1, "maxWords": 90 },
+      "link_ids": { "type": "array", "uniqueItems": true, "items": { "type": "string", "pattern": "^L\\d{2,}$" } }
+    }
+  }
+}
