@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "links.schema.json",
+  "title": "Fargo cross-season links",
+  "description": "Connections between episodes. confirmed=false is a fan theory (dashed line).",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "from_id", "to_id", "character_ids", "kind", "evidence_en", "evidence_he", "confirmed"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^L\\d{2,}$" },
+      "from_id": { "type": "string", "pattern": "^(FILM|S[1-5]E\\d{2})$" },
+      "to_id": { "type": "string", "pattern": "^(FILM|S[1-5]E\\d{2})$" },
+      "character_ids": { "type": "array", "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" } },
+      "kind": { "enum": ["same-person", "object", "event", "family", "echo"] },
+      "evidence_en": { "type": "string", "minLength": 1, "maxWords": 40 },
+      "evidence_he": { "type": "string", "minLength": 1, "maxWords": 40 },
+      "confirmed": { "type": "boolean" }
+    }
+  }
+}
