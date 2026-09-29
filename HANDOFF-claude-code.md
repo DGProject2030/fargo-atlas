@@ -135,7 +135,20 @@ confirmed     true | false   false = fan theory, shown with a dashed line
 6. Write `tasks/pending/001-episodes-s1.md` as the dry-run task (Season 1 only, 10 episodes).
 7. Run the dry run. Show Tsah the PR. Stop.
 
-Days 1–5 are in the chat plan; re-plan each day in Plan Mode.
+## 6b. Days 1–5 — re-plan each day in Plan Mode, get approval, then execute
+
+| Day | Opus (Architect) | Grok (dispatched tasks) | End-of-day check |
+|---|---|---|---|
+| 1 | `tokens.css` (snow, ice, one red), `<html dir/lang>` switcher, i18n loader, timeline view with story/release toggle | 002 episodes film + S2–S5, 003 characters | Timeline renders all six installments from `episodes.json`; two PRs reviewed |
+| 2 | D3 force graph (`web.ts`): season + faction filters, tap node → bio panel; episode guide view | 004 links, 005 data tests | Graph shows ≥ 80 nodes; `npm test` green |
+| 3 | Links view: list + dashed line for `confirmed: false`; SVG art set (≥ 6 pieces, no faces); locale key list for Grok | 006 en.json, 007 he.json | All four views work in both languages; Opus proofreads the Hebrew |
+| 4 | Mobile pass at 380 px, keyboard nav, ARIA on graph and timeline, README, disclaimer footer | 008 fix validator failures | Lighthouse a11y ≥ 95 on desktop and mobile |
+| 5 | `.github/workflows/ci.yml` (validate, lint, test, build) and `pages.yml` (deploy on `main`); branch protection | none | Site live on GitHub Pages; definition of done (section 8) met |
+
+Rules for the table:
+- Grok tasks are dispatched at the start of the day so they run while Opus builds.
+- Day 5 starts only after the manual loop (task → PR → review → merge) has run clean twice.
+- Slip a day rather than skip a check.
 
 ---
 
