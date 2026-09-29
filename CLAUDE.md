@@ -71,8 +71,8 @@ confirmed     true | false   false = fan theory, shown with a dashed line
 ## Task loop
 
 1. Orchestrator writes `tasks/pending/NNN-<slug>.md` (template: `HANDOFF-claude-code.md` §7) on a `claude/` branch and merges it. The `Write:` line must list every allowed path in backticks — the script rejects any change not named there.
-2. From a clean, up-to-date `main`: `bash scripts/dispatch-grok.sh NNN`.
-3. Script: runs Grok → path guard → `npm run validate` → commits → pushes `grok/NNN-<slug>` → opens PR. Log: `tasks/running/NNN.log` (gitignored).
+2. `bash scripts/dispatch-grok.sh NNN` — from any branch. It works in its own worktree, `../fargo-atlas-worktrees/grok-NNN`, from `origin/main`, so several tasks can run at once while Claude works in the main checkout.
+3. Script: runs Grok → path guard → `npm run validate` → commits → pushes `grok/NNN-<slug>` → opens PR → removes the worktree. On failure the worktree stays for inspection. Log: `tasks/logs/NNN.log` (gitignored).
 4. Reviewer agent (`.claude/agents/reviewer.md`) gives PASS/FAIL. Orchestrator merges on PASS.
 
 ## Commands
@@ -81,3 +81,4 @@ confirmed     true | false   false = fan theory, shown with a dashed line
 - `npm run validate` — data contract
 - `npm run lint` — `tsc --noEmit` for `src/` and `tests/`
 - `npm test` — all Vitest tests
+- `bash scripts/deploy-pages.sh` — build `origin/main` and publish to `gh-pages` (manual until `pages.yml`, day 5)
