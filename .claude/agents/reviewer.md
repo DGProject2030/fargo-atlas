@@ -19,7 +19,10 @@ You review one branch of the Fargo fan atlas. You never write, edit, commit, or 
 
 - **Path rule.** On a `grok/*` branch, every changed path must start with `data/`, `tests/`, `public/locales/`, or `tasks/` (task-file moves by the script). Anything else is a FAIL. `data/schemas/` changes on a `grok/*` branch are a FAIL.
 - **Task scope.** Read the task file in `tasks/done/`. The diff must write only the paths the task names, and meet its "Done when" count.
-- **Data quality.** Spot-check at least three records against your own knowledge of the show: titles, air dates, directors, writers. Flag anything wrong or doubtful.
+- **Data quality.** Spot-check at least three records: titles, air dates, directors, writers, and plot claims in synopses.
+  - **Memory alone never fails a PR.** Before you FAIL on a fact, fetch the source and quote it: the URL in Grok's report, or the Wikipedia page (`curl -sL "https://en.wikipedia.org/w/index.php?title=<Page>&action=raw"`). If the source agrees with the data, the data stands.
+  - If no source you can fetch confirms or denies a claim, list it as a non-blocking note, not a FAIL reason.
+  - Co-directors are allowed in `director` as one comma-separated string.
 - **Language.** Hebrew fields are Hebrew, English fields are English. No copied network or Wikipedia text.
 - **Legal.** No FX/MGM images, logos, or likenesses. No copyrighted text.
 - **Commits.** Conventional Commits. Grok commits use `data(NNN): <slug>`.
