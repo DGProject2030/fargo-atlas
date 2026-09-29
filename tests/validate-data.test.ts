@@ -73,6 +73,10 @@ describe('references', () => {
     expect(missing).toEqual([])
   })
 
+  it('links do not point to their own episode', () => {
+    expect(data.links.filter((l) => l.from_id === l.to_id).map((l) => l.id)).toEqual([])
+  })
+
   it('link character_ids exist in characters.json', () => {
     const missing = data.links.flatMap((l) =>
       l.character_ids.filter((id: string) => !characterIds.has(id)).map((id: string) => `${l.id} -> ${id}`),

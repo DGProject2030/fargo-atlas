@@ -57,14 +57,16 @@ status="$(node -e 'try { console.log(JSON.parse(process.argv[1]).status) } catch
 [[ "$status" == "done" ]] || fail "grok report status is '$status'"
 
 # --- path guard: Grok may only change data/, tests/, public/locales/ -------
-bad="$(git status --porcelain --untracked-files=all \
-  | cut -c4- | sed 's/.* -> //' \
-  | grep -vxF "tasks/running/$task_file" \
-  | grep -vE '^(data/|tests/|public/locales/)' \
-  | grep -vE '^data/schemas/' || true)"
-schema="$(git status --porcelain --untracked-files=all | cut -c4- | grep -E '^data/schemas/' || true)"
-[[ -z "$bad$schema" ]] || fail "changes outside allowed paths:"$'\n'"$bad$schema"
-[[ -n "$(git status --porcelain -- data tests public/locales)" ]] || fail "grok changed nothing"
+# ... and only the paths the task's "Write:" line names.
+changed="$(git status --porcelain --untracked-files=all \
+  | cut -c4- | sed 's/.* -> //' | grep -vxF "tasks/running/$task_file" || true)"
+[[ -n "$changed" ]] || fail "grok changed nothing"
+bad="$(grep -vE '^(data/|tests/|public/locales/)' <<<"$changed" || true)"
+bad+="$(grep -E '^data/schemas/' <<<"$changed" || true)"
+[[ -z "$bad" ]] || fail "changes outside allowed paths:"$'\n'"$bad"
+write_line="$(grep -m1 '^Write:' "tasks/running/$task_file" || true)"
+unnamed="$(while read -r p; do grep -qF "\`$p\`" <<<"$write_line" || echo "$p"; done <<<"$changed")"
+[[ -z "$unnamed" ]] || fail "changes not named in the task's Write: line:"$'\n'"$unnamed"
 
 # --- validate ---------------------------------------------------------------
 npm run validate --silent || fail "npm run validate"
