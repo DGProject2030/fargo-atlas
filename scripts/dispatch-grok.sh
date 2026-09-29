@@ -26,7 +26,7 @@ wt="$(dirname "$root")/fargo-atlas-worktrees/grok-$NNN"
 mkdir -p "$root/tasks/logs"
 log="$root/tasks/logs/$NNN.log"
 
-[[ ! -e "$wt" ]] || die "worktree $wt already exists (failed run?). Inspect, then: git worktree remove --force $wt"
+[[ ! -e "$wt" ]] || die "worktree $wt already exists (failed run?). Inspect, then: git worktree remove --force $wt && git branch -D $branch"
 ! git show-ref --quiet "refs/heads/$branch" || die "local branch $branch already exists"
 ! git ls-remote --exit-code --heads origin "$branch" >/dev/null || die "branch $branch already exists on origin"
 
