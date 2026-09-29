@@ -1,5 +1,22 @@
 [
   {
+    "id": "FILM",
+    "season": 0,
+    "number": 0,
+    "title_en": "Fargo",
+    "title_he": "פארגו",
+    "air_date": "1996-03-08",
+    "story_year": 1987,
+    "director": "Joel Coen",
+    "writers": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "synopsis_en": "In 1987, car salesman Jerry Lundegaard hires Carl Showalter and Gaear Grimsrud to kidnap his wife Jean for a ransom from her father, Wade. Near Brainerd they kill a trooper and two witnesses. Pregnant chief Marge Gunderson takes the case. Wade brings the money himself. Carl shoots him and buries the cash by the road. Gaear kills Jean, then Carl, with an axe. Marge finds Gaear feeding the body into a woodchipper, shoots him in the leg, and arrests him. Troopers take Jerry outside Bismarck.",
+    "synopsis_he": "ב-1987 סוחר המכוניות ג'רי לנדגארד ממיניאפוליס שוכר את קרל שאוולטר וגייר גרימסוד לחטוף את אשתו ג'ין, כדי לסחוט כופר מאביה וייד. ליד בריינרד השניים הורגים שוטר ושני עדים. מפקדת המשטרה מארג' גונדרסון, בהיריון, פותחת בחקירה. וייד מתעקש להביא את הכסף, וקרל יורה בו וטומן את רוב הסכום ליד הכביש. בבקתה גייר הורג את ג'ין ואחר כך את קרל בגרזן. מארג' מוצאת את גייר דוחף את הגופה למגרסת עצים, יורה לו ברגל ועוצרת אותו. שוטרים תופסים את ג'רי במוטל מחוץ לביסמרק.",
+    "link_ids": []
+  },
+  {
     "id": "S1E01",
     "season": 1,
     "number": 1,
@@ -8,8 +25,10 @@
     "air_date": "2014-04-15",
     "story_year": 2006,
     "director": "Adam Bernstein",
-    "writers": ["Noah Hawley"],
-    "synopsis_en": "In January 2006, hitman Lorne Malvo wrecks his car outside Bemidji after a man escapes his trunk and freezes in the woods. Meek insurance salesman Lester Nygaard breaks his nose in a run-in with bully Sam Hess, then meets Malvo at the hospital. Malvo kills Hess. At home, Lester beats his wife Pearl to death with a hammer. Chief Vern Thurman walks in, and Malvo shoots him. Lester stages a break-in. In Duluth, officer Gus Grimly stops Malvo for speeding and lets him go after a threat.",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "In January 2006, hitman Lorne Malvo hits a deer and wrecks outside Bemidji. A nearly naked man escapes his trunk into the snow and freezes in the woods. Insurance salesman Lester Nygaard breaks his nose in a run-in with Sam Hess, then meets Malvo at the hospital. Malvo kills Hess. At home, Lester beats his wife Pearl to death with a hammer. Chief Vern Thurman walks in, and Malvo shoots him. Lester stages a break-in. In Duluth, Gus Grimly stops Malvo for speeding and lets him go after a threat.",
     "synopsis_he": "בינואר 2006 לורן מאלוו מתנגש בצבי מחוץ לבמיג'י. גבר כמעט עירום בורח מתא המטען וקופא ביער. סוכן הביטוח לסטר נייגארד שובר את האף אחרי שסם הס משפיל אותו, ופוגש את מאלוו בבית החולים. מאלוו הורג את הס. בבית לסטר הורג את אשתו פרל במכת פטיש. המפקד ורן תורמן בא לחקור, מאלוו יורה בו ונעלם, ולסטר מביים פריצה. בדולות השוטר גאס גרימלי עוצר את מאלוו ומשחרר אותו אחרי איום.",
     "link_ids": []
   },
@@ -22,7 +41,9 @@
     "air_date": "2014-04-22",
     "story_year": 2006,
     "director": "Adam Bernstein",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "Fargo hitmen Mr. Wrench and Mr. Numbers come to Bemidji to find who killed Sam Hess. They grab the wrong man and drown him in an ice-fishing hole. Bill Oswalt becomes chief and argues with Deputy Molly Solverson: he blames a drifter, while she ties Lester Nygaard to Hess, Pearl, and Chief Thurman. In Duluth, supermarket owner Stavros Milos hires Malvo to stop a blackmailer. Gus hears about the Bemidji murders and realizes the driver he released may be part of them.",
     "synopsis_he": "הרוצחים מר רנץ' ומר נמברס מגיעים מפארגו לבמיג'י לחפש את רוצח סם הס. הם חוטפים את האיש הלא נכון ומטביעים אותו בחור דיג בקרח. ביל אוסוולט מתמנה למפקד ומתעמת עם מולי סולוורסון: הוא מאשים נווד, והיא קושרת את לסטר נייגארד להס, לפרל ולתורמן. בדולות בעל הסופר סטברוס מילוס שוכר את מאלוו נגד סוחט. גאס שומע על הרציחות ומבין שהנהג ששחרר קשור אליהן.",
     "link_ids": []
@@ -36,7 +57,9 @@
     "air_date": "2014-04-29",
     "story_year": 2006,
     "director": "Randall Einhorn",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "Molly traces the frozen man to a St. Paul kidnapping over gambling debts. A camera shows part of the kidnapper's face. Wrench and Numbers see Lester with Hess's widow Gina, then corner him at the office until Molly arrives. Lester's reaction to Malvo's photo tells her he knows the man. Malvo finds blackmailer Don Chumph, takes the scheme, and preys on Stavros's faith: a dead dog, swapped pills, and blood from the shower. Gus confesses that he let Malvo drive off, then meets Molly in Bemidji.",
     "synopsis_he": "מולי מגלה שהאיש הקפוא נחטף מסנט פול בגלל חובות הימורים, ומצלמה תפסה חלק מפני החוטף. רנץ' ונמברס רואים את לסטר עם אלמנת הס, ג'ינה, ואז באים למשרד עד שמולי נכנסת. התגובה שלו לתמונה של מאלוו מסגירה שהוא מכיר אותו. מאלוו מאתר את הסוחט דון צ'אמפ, לוקח את הסחיטה, והופך את האמונה של סטברוס נגדו: כלב מת, כדורים מוחלפים ודם במקלחת. גאס מודה ששחרר את מאלוו ונוסע לבמיג'י לדבר עם מולי.",
     "link_ids": []
@@ -50,7 +73,9 @@
     "air_date": "2014-05-06",
     "story_year": 2006,
     "director": "Randall Einhorn",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "In 1987, broke Stavros prays on a frozen road and finds a case of cash in the snow. In 2006, Malvo presses the fake plagues until Stavros fears God's punishment. Gus arrests Malvo near the house. Chief Oswalt, not Molly, comes to Duluth. Malvo's papers say he is a minister, so the police let him go. Wrench and Numbers kidnap Lester. He gets free, punches an officer, and lands in a cell for safety. The two hitmen then get themselves arrested and put in that same cell.",
     "synopsis_he": "ב-1987 סטברוס חסר הפרוטה מתפלל בכביש קפוא ומוצא מזוודת כסף בשלג. ב-2006 מאלוו ממשיך במכות המזויפות עד שסטברוס בטוח שאלוהים מעניש אותו. גאס עוצר את מאלוו ליד הבית. המפקד אוסוולט, לא מולי, מגיע לדולות. המסמכים של מאלוו מציגים אותו ככומר, והמשטרה משחררת אותו. רנץ' ונמברס חוטפים את לסטר. הוא בורח, מכה שוטר, ונכנס לתא בשביל ביטחון. השניים דואגים להיעצר ולהיכנס לאותו תא.",
     "link_ids": []
@@ -64,7 +89,9 @@
     "air_date": "2014-05-13",
     "story_year": 2006,
     "director": "Colin Bucksey",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "In jail, Lester gives Wrench and Numbers the name Lorne Malvo. They walk free. A shotgun pellet in Lester's hand has infected, so he goes to the hospital. Molly rides in the ambulance and questions him while he is hazy. She lays the links out for Chief Oswalt, who starts to see one case. Malvo locks Don Chumph in a pantry so the blackmail drop stays on track, then drives Stavros home. He notices Gus parked nearby, follows him, and threatens a neighbor who walks up to the car.",
     "synopsis_he": "בתא המעצר לסטר מוסר לרנץ' ולנמברס את השם לורן מאלוו. הם משתחררים. כדור ציד ביד של לסטר מזדהם, והוא נוסע לבית החולים. מולי נוסעת באמבולנס וחוקרת אותו כשהוא מעורפל. היא פורסת את הקשרים בפני המפקד אוסוולט, והוא מתחיל לראות תיק אחד. מאלוו נועל את דון צ'אמפ במזווה כדי שהסחיטה לא תיהרס, ומסיע את סטברוס הביתה. הוא מבחין בגאס חונה בקרבת מקום, עוקב אחריו, ומאיים על שכן שניגש אל המכונית.",
     "link_ids": []
@@ -78,7 +105,9 @@
     "air_date": "2014-05-20",
     "story_year": 2006,
     "director": "Colin Bucksey",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "Malvo tapes Chumph to a bench with an empty gun, sprays the street, and leaves. Police raid the house and kill Chumph. In a blizzard, Wrench and Numbers ambush Malvo. He escapes, learns Fargo sent them, and kills Numbers. Gus shoots at a figure in the snow and hits Molly. Stavros buries the ransom where he once found cash. Fish rain down, his son's car crashes, and the boy dies. Lester hides the murder clues in Chazz's gun safe and sneaks back to his hospital bed.",
     "synopsis_he": "מאלוו קושר את צ'אמפ לספסל עם רובה ריק, יורה ברחוב ונמלט. השוטרים פורצים והורגים את צ'אמפ. בסופת שלג רנץ' ונמברס אורבים למאלוו. הוא בורח, שומע שפארגו שלחה אותם, והורג את נמברס. גאס יורה בדמות בשלג ופוגע במולי. סטברוס קובר את כופר הסחיטה במקום שבו מצא פעם כסף. דגים נופלים מהשמיים, המכונית של בנו מתהפכת, והילד מת. לסטר מחביא את ראיות הרצח בכספת הנשק של אחיו צ'אז וחוזר בחשאי למיטת בית החולים.",
     "link_ids": []
@@ -92,7 +121,9 @@
     "air_date": "2014-05-27",
     "story_year": 2006,
     "director": "Scott Winant",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "Molly lives, minus her spleen, and Gus is sick with guilt. A planted gun turns up at his nephew's school, then the rest of the evidence in Chazz's safe. Lester tells Chief Oswalt that Chazz killed Pearl and Thurman. Chazz is locked up and Lester walks free. Molly tells wounded Wrench that Numbers is dead. He says nothing. Malvo massacres the Fargo crew that sent the hitmen. Lester leads Gina Hess on about Sam's policy. Molly gets home and hears that the chief has cleared Lester.",
     "synopsis_he": "מולי שורדת בלי טחול, וגאס מלא אשמה. אקדח שלסטר הטמין מתגלה בבית הספר של האחיין, והמשטרה מוצאת את שאר הראיות בכספת של צ'אז. לסטר מספר לאוסוולט שצ'אז הרג את פרל ואת תורמן. צ'אז נכלא ולסטר יוצא חופשי. מולי אומרת לרנץ' הפצוע שנמברס מת, והוא שותק. מאלוו טובח בארגון מפארגו ששלח את השניים. לסטר מבטיח לג'ינה הס כסף על פוליסה שלא תשלם. מולי חוזרת הביתה ושומעת שהמפקד ניקה את לסטר.",
     "link_ids": []
@@ -106,7 +137,9 @@
     "air_date": "2014-06-03",
     "story_year": 2006,
     "director": "Scott Winant",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "Lester dumps Pearl's things and stares down Gina Hess and her sons. Linda, at the office, likes the new Lester. Molly is back and cannot reopen the case. Malvo kills a Duluth guard, uncuffs Wrench, admits he killed Numbers, and invites a rematch. The FBI pair who missed him are sent to file papers. One year later Gus delivers mail and is married to pregnant Molly. In Las Vegas, Lester, now Linda's husband and salesman of the year, spots a changed Malvo at the hotel bar.",
     "synopsis_he": "לסטר זורק את חפצי פרל ומשתלט על ג'ינה הס ובניה במשרד. לינדה מהעבודה מתרשמת. מולי חוזרת ולא מצליחה לפתוח מחדש את התיק. מאלוו הורג שומר בדולות, משחרר את רנץ', מודה שהרג את נמברס, ומזמין אותו לנקמה בעתיד. סוכני האף־בי־איי שהחמיצו אותו מועברים לארכיון. שנה אחר כך גאס הוא דוור ונשוי למולי ההרה. בלאס וגאס לסטר, בעלה של לינדה וסוכן השנה, רואה את מאלוו בבר בשם חדש.",
     "link_ids": []
@@ -120,7 +153,9 @@
     "air_date": "2014-06-10",
     "story_year": 2007,
     "director": "Matt Shakman",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "In Las Vegas, Lester forces Malvo to admit they know each other. Malvo shoots the group with him, fiancee included, then Lester cracks him with the sales award and runs. He and Linda fly back to Bemidji and pack for Acapulco. Molly questions them about the hotel killings. FBI agents Pepper and Budge now back Molly's old theory about Lester. Lester, afraid Malvo has followed, gives Linda his coat and sends her into the office ahead of him.",
     "synopsis_he": "בלאס וגאס לסטר דורש ממאלוו להכיר בו ונכנס אחריו למעלית. מאלוו יורה באנשים שאיתו, כולל ארוסתו, כי הסיפור התפוצץ. לסטר מכה אותו בפרס ונמלט עם לינדה. הם חוזרים לבמיג'י ואורזים לאקפולקו. מולי שואלת על הרציחות במלון, וסוכני אף־בי־איי כבר תומכים בתיאוריה הישנה שלה. לסטר, שפוחד שמאלוו הגיע, נותן ללינדה את המעיל שלו ושולח אותה למשרד לפניו.",
     "link_ids": []
@@ -134,9 +169,689 @@
     "air_date": "2014-06-17",
     "story_year": 2007,
     "director": "Matt Shakman",
-    "writers": ["Noah Hawley"],
+    "writers": [
+      "Noah Hawley"
+    ],
     "synopsis_en": "After Malvo kills Linda at the office, Lester stages the room and calls from Lou's diner. He sets a bear trap at home. Malvo shoots the FBI agents outside and steps in the trap. Both miss their shots, and Malvo runs. Gus finds the cabin, says the old riddle is answered, and kills him. A tape holds Lester's confession about Pearl. Weeks later Lester falls through lake ice in Glacier National Park. Molly tells Gus the bravery citation is his to keep.",
     "synopsis_he": "אחרי שמאלוו הורג את לינדה במשרד, לסטר מטשטש את הזירה ומתקשר מהמסעדה של לו. כרטיסי מקסיקו נשארים במעיל. בבית הוא ממקם מלכודת דובים. מאלוו הורג את סוכני האף־בי־איי בחוץ ודורך על המלכודת. שניהם מחטיאים, ומאלוו בורח פצוע. גאס מוצא את הבקתה, אומר שפתר את החידה הישנה, והורג אותו. בקלטת שם לסטר מודה שהרג את פרל. שבועות אחר כך לסטר נופל דרך הקרח בפארק הלאומי גליישר. מולי אומרת לגאס לקבל את ציון האומץ.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E01",
+    "season": 2,
+    "number": 1,
+    "title_en": "Waiting for Dutch",
+    "title_he": "מחכים לדאץ'",
+    "air_date": "2015-10-12",
+    "story_year": 1979,
+    "director": "Michael Uppendahl, Randall Einhorn",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "In March 1979 a stroke fells Otto Gerhardt, and sons Dodd and Bear fight for the Fargo family. Rye kills a judge and two workers at a Waffle Hut near Luverne, sees a UFO, and Peggy Blumquist's car hits him. She hides him in the garage. Husband Ed, a butcher, kills Rye when he wakes, and they stash the body in the freezer. Trooper Lou Solverson and Sheriff Hank Larsson open the case. Lou goes home to sick wife Betsy and little Molly. Kansas City starts a move on Fargo.",
+    "synopsis_he": "במרץ 1979 שבץ מפיל את אוטו גרהרדט, ובניו דוד ובר נאבקים על הנהגת משפחת הפשע מפארגו. הבן הצעיר ריי הורג שופטת ושני עובדים בוופל האט ליד לוורן, רואה עב\"ם, ופגי בלומקוויסט דורסת אותו. היא מחביאה אותו במוסך. בעלה אד, קצב, הורג את ריי כשהוא מתעורר, והם טומנים את הגופה במקפיא. השוטר לו סולוורסון והשריף האנק לרסון פותחים בחקירה. בבית לו מטפל באשתו החולה בטסי ובמולי הקטנה. אנשי קנזס סיטי מתחילים לזוז על פארגו.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E02",
+    "season": 2,
+    "number": 2,
+    "title_en": "Before the Law",
+    "title_he": "לפני החוק",
+    "air_date": "2015-10-19",
+    "story_year": 1979,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Joe Bulo of Kansas City offers Floyd Gerhardt a buyout that would leave her family in charge. She names Dodd her successor and orders a search for Rye. Mike Milligan and the Kitchen brothers hunt Rye as well. Betsy finds Rye's gun at the Waffle Hut. That night Lou stops at the butcher shop for bacon while Ed is grinding the body.",
+    "synopsis_he": "ג'ו בולו מקנזס סיטי מציע לפלויד גרהרדט לקנות את העסק ולהשאיר את המשפחה במקומה. היא ממנה את דוד ליורש ומצווה למצוא את ריי. גם מייק מיליגן והאחים קיצ'ן מחפשים אותו. בטסי מוצאת את האקדח של ריי בוופל האט. בלילה לו נכנס לאטליז לקנות בייקון, בזמן שאד טוחן את הגופה.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E03",
+    "season": 2,
+    "number": 3,
+    "title_en": "The Myth of Sisyphus",
+    "title_he": "המיתוס של סיזיפוס",
+    "air_date": "2015-10-26",
+    "story_year": 1979,
+    "director": "Michael Uppendahl",
+    "writers": [
+      "Bob DeLaurentis"
+    ],
+    "synopsis_en": "Rye's prints on the gun start a hunt. Milligan, Dodd, and Hanzee Dent all look for him. Peggy hears Betsy guess that a car hit the shooter, so she and Ed crash her car again to hide the damage. In Fargo, Lou and Ben Schmidt face Floyd and her sons. Lou then faces Milligan at Skip Sprang's shop. Dodd buries Skip alive and sends Hanzee to Luverne.",
+    "synopsis_he": "טביעות האצבע של ריי על האקדח פותחות במרדף. מיליגן, דוד והנזי דנט מחפשים אותו. פגי שומעת את בטסי מנחשת שמכונית פגעה ביורה, והיא ואד מרסקים שוב את המכונית כדי לטשטש. בפארגו לו ובן שמידט עומדים מול פלויד ובניה. אחר כך לו נתקל במיליגן בחנות של סקיפ ספרנג. דוד קובר את סקיפ חי ושולח את הנזי ללוורן.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E04",
+    "season": 2,
+    "number": 4,
+    "title_en": "Fear and Trembling",
+    "title_he": "חיל ורעדה",
+    "air_date": "2015-11-02",
+    "story_year": 1979,
+    "director": "Michael Uppendahl",
+    "writers": [
+      "Steve Blackman"
+    ],
+    "synopsis_en": "The Kitchens kill Otto's guards outside a clinic and leave the old man. Floyd offers Bulo a partnership. Kansas City refuses, cuts the price, and demands surrender. Hanzee finds Rye's belt buckle in the Blumquist fireplace. Lou warns Ed and Peggy what the Gerhardts do to people who cross them. Floyd tells the family to prepare for war.",
+    "synopsis_he": "האחים קיצ'ן הורגים את השומרים של אוטו מחוץ למרפאה ומשאירים את הזקן. פלויד מציעה לבולו שותפות. קנזס סיטי מסרבת, מורידה את המחיר ודורשת כניעה. הנזי מוצא את אבזם החגורה של ריי באח של בני בלומקוויסט. לו מזהיר את אד ופגי ממה שמשפחת גרהרדט עושה למי שפוגע בה. פלויד אומרת למשפחה להתכונן למלחמה.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E05",
+    "season": 2,
+    "number": 5,
+    "title_en": "The Gift of the Magi",
+    "title_he": "מתנת המאגים",
+    "air_date": "2015-11-09",
+    "story_year": 1979,
+    "director": "Jeffrey Reiner",
+    "writers": [
+      "Matt Wolpert",
+      "Ben Nedivi"
+    ],
+    "synopsis_en": "Lou is pulled onto a Ronald Reagan security detail. Dodd and Hanzee sell Floyd a story that Ed, \"the Butcher,\" killed Rye for Kansas City. On her order Hanzee kills Bulo and one Kitchen brother and sends Bulo's head to Milligan. Milligan turns Simone into a spy. Virgil and young Charlie come to kill Ed. The shop burns, Virgil dies, and Charlie is hurt. Peggy has sold the car. The police reach the house.",
+    "synopsis_he": "לו מוצב לאבטחה של רונלד רייגן. דוד והנזי מספרים לפלויד שאד, \"הקצב\", הרג את ריי בשביל קנזס סיטי. בפקודתה הנזי הורג את בולו ואחד מאחי קיצ'ן, ושולח את הראש למיליגן. מיליגן הופך את סימון למרגלת. וירג'יל וצ'ארלי הצעיר באים להרוג את אד. החנות נשרפת, וירג'יל מת, וצ'ארלי נפצע. פגי כבר מכרה את המכונית. המשטרה מגיעה הביתה.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E06",
+    "season": 2,
+    "number": 6,
+    "title_en": "Rhinoceros",
+    "title_he": "קרנף",
+    "air_date": "2015-11-16",
+    "story_year": 1979,
+    "director": "Jeffrey Reiner",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Ed is held at the station. Hank questions Peggy at home until Hanzee knocks him out. Peggy drops Dodd with a cattle prod in the basement. Bear comes for Charlie. Lawyer Karl Weathers talks Bear into leaving while Lou slips Ed out a back window. Hanzee chases Ed. Simone asks Milligan to kill her father. His men open fire on the Gerhardt house with Simone, Floyd, and Otto inside.",
+    "synopsis_he": "אד עצור בתחנה. האנק חוקר את פגי בבית עד שהנזי מפיל אותו. פגי מפילה את דוד בדרבן בקר במרתף. בר בא לקחת את צ'ארלי. עורך הדין קרל וות'רס משכנע את בר לעזוב, ולו מוציא את אד מחלון אחורי. הנזי רודף אחרי אד. סימון מבקשת ממיליגן להרוג את אביה. אנשיו יורים על בית גרהרדט כשסימון, פלויד ואוטו בפנים.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E07",
+    "season": 2,
+    "number": 7,
+    "title_en": "Did You Do This? No, You Did It!",
+    "title_he": "עשית את זה? לא, אתה עשית את זה!",
+    "air_date": "2015-11-23",
+    "story_year": 1979,
+    "director": "Keith Gordon",
+    "writers": [
+      "Noah Hawley",
+      "Matt Wolpert",
+      "Ben Nedivi"
+    ],
+    "synopsis_en": "Otto dies in Milligan's raid. Floyd later trades what she knows of the Kansas City operation for a deal. Bear drives Simone into the woods and shoots her for betraying the family. Betsy fears her cancer pills are fake and finds strange symbols in Hank's study. Milligan kills the man sent to replace him. Then Ed calls: Dodd is in the trunk.",
+    "synopsis_he": "אוטו נהרג בפשיטה של מיליגן. פלויד מוסרת אחר כך מידע על קנזס סיטי תמורת עסקה. בר לוקח את סימון ליער ויורה בה על הבגידה במשפחה. בטסי חוששת שכדורי הסרטן שלה מזויפים, ומוצאת סמלים מוזרים בחדר של האנק. מיליגן הורג את האיש שנשלח להחליף אותו. ואז אד מתקשר: דוד בתא המטען.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E08",
+    "season": 2,
+    "number": 8,
+    "title_en": "Loplop",
+    "title_he": "לופלופ",
+    "air_date": "2015-11-30",
+    "story_year": 1979,
+    "director": "Keith Gordon",
+    "writers": [
+      "Bob DeLaurentis"
+    ],
+    "synopsis_en": "Ed and Peggy hide with Dodd at a South Dakota cabin while Hanzee tracks them. Ed makes a deal with Milligan for a morning meeting in Sioux Falls. Dodd gets loose and hangs Ed. Peggy knocks Dodd out in time. Hanzee kills people in a bar, fails to trick Peggy through a coworker, then finds the cabin. He shoots Dodd and asks Peggy for a haircut. She stabs him. Lou and Hank arrive, and Hanzee runs.",
+    "synopsis_he": "אד ופגי מחביאים את דוד בבקתה בדקוטה הדרומית, והנזי עוקב. אד סוגר עם מיליגן פגישה בבוקר בסו פולס. דוד משתחרר ותולה את אד. פגי מספיקה להפיל את דוד. הנזי הורג אנשים בבר, נכשל בסחיטת פגי דרך עמיתה, ומוצא את הבקתה. הוא יורה בדוד ומבקש מפגי תספורת. היא דוקרת אותו. לו והאנק מגיעים, והנזי בורח.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E09",
+    "season": 2,
+    "number": 9,
+    "title_en": "The Castle",
+    "title_he": "הטירה",
+    "air_date": "2015-12-07",
+    "story_year": 1979,
+    "director": "Adam Arkin",
+    "writers": [
+      "Noah Hawley",
+      "Steve Blackman"
+    ],
+    "synopsis_en": "South Dakota captain Cheney puts a wire on Ed and Peggy for the Milligan meet and has Lou driven out of the state. Hanzee tells Floyd and Bear that Kansas City is holding Dodd at the motel. The Gerhardts and the police shoot it out. Hanzee stabs Floyd. A UFO appears over the lot, and Lou kills a distracted Bear. Ed and Peggy run, with Hanzee behind them.",
+    "synopsis_he": "הקפטן צ'ייני מדקוטה הדרומית שם מיקרופון על אד ופגי לקראת הפגישה עם מיליגן, ומסלק את לו מהמדינה. הנזי אומר לפלויד ולבר שקנזס סיטי מחזיקה את דוד במוטל. משפחת גרהרדט והמשטרה נכנסות לקרב יריות. הנזי דוקר את פלויד. עב\"ם מופיע מעל החניון, ולו הורג את בר המוסח. אד ופגי בורחים, והנזי אחריהם.",
+    "link_ids": []
+  },
+  {
+    "id": "S2E10",
+    "season": 2,
+    "number": 10,
+    "title_en": "Palindrome",
+    "title_he": "פלינדרום",
+    "air_date": "2015-12-14",
+    "story_year": 1979,
+    "director": "Adam Arkin",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Hanzee shoots Ed. He and Peggy hide in a supermarket meat locker, and Ed dies there. Peggy walks out into Lou's arrest, not into a fire. On the drive back they talk about the life she wanted. Hanzee is given a new name and beats a bully who was after two boys, one of them deaf. Milligan, credited with ending the Gerhardts, is parked in a small office. Betsy, Lou, and Hank sit together. Hank says his symbols were a try at a language anyone could share.",
+    "synopsis_he": "הנזי יורה באד. הוא ופגי מסתתרים במקפיא של סופר, ושם אד מת. פגי יוצאת אל המעצר של לו, לא אל שריפה. בנסיעה הם מדברים על החיים שרצתה. הנזי מקבל שם חדש ומכה בריון שרדף אחרי שני נערים, אחד מהם חירש. מיליגן, שמקבל את הקרדיט על חיסול משפחת גרהרדט, נתקע במשרד קטן. בטסי, לו והאנק יושבים יחד. האנק אומר שהסמלים שלו היו ניסיון לשפה שכולם יוכלו לחלוק.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E01",
+    "season": 3,
+    "number": 1,
+    "title_en": "The Law of Vacant Places",
+    "title_he": "חוק המקומות הפנויים",
+    "air_date": "2017-04-19",
+    "story_year": 2010,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "In East Berlin in 1988, a man is blamed for a murder committed by someone who once had his address. In December 2010, parking-lot king Emmit Stussy refuses his brother Ray a loan. Ray sends parolee Maurice LeFay to steal their father's last stamp. LeFay kills the wrong man, Ennis Stussy. Chief Gloria Burgle finds the body and a box under the floor. V.M. Varga tells Emmit and Sy Feltz that an old loan makes him their partner. Nikki Swango and Ray kill LeFay with a falling air conditioner.",
+    "synopsis_he": "במזרח ברלין ב-1988 מאשימים אדם ברצח שעשה מי שגר פעם באותה כתובת. בדצמבר 2010 אמט סטאסי, מלך החניונים, מסרב להלוואה לאחיו ריי. ריי שולח את האסיר המשוחרר מוריס לה פיי לגנוב את הבול האחרון של אביהם. לה פיי הורג את האיש הלא נכון, אניס סטאסי. המפקדת גלוריה ברגל מוצאת את הגופה ותיבה מתחת לרצפה. ו. מ. וארגה אומר לאמט ולסיי פלץ שהלוואה ישנה הופכת אותו לשותף. ניקי סוונגו וריי הורגים את לה פיי במזגן שנופל.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E02",
+    "season": 3,
+    "number": 2,
+    "title_en": "The Principle of Restricted Choice",
+    "title_he": "עקרון הבחירה המוגבלת",
+    "air_date": "2017-04-26",
+    "story_year": 2010,
+    "director": "Michael Uppendahl",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Gloria learns Ennis wrote science fiction as Thaddeus Mobley, and that LeFay tore that name from a phone book. Nikki searches Emmit's house for the stamp, fails, and wrecks the office. Sy hits Ray's car and another car by mistake. Emmit has a lawyer look into Varga. Yuri and Meemo kill the lawyer and stage a suicide.",
+    "synopsis_he": "גלוריה מגלה שאניס כתב מדע בדיוני בשם תדיאוס מובלי, ומוריס לה פיי תלש את השם מספר טלפונים. ניקי מחפשת את הבול בבית של אמט, לא מוצאת, והורסת את המשרד. סיי פוגע במכונית של ריי וגם במכונית אחרת. אמט שולח עורך דין לבדוק את וארגה. יורי ומימו הורגים את עורך הדין ומביימים התאבדות.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E03",
+    "season": 3,
+    "number": 3,
+    "title_en": "The Law of Non-Contradiction",
+    "title_he": "חוק אי-הסתירה",
+    "air_date": "2017-05-03",
+    "story_year": 2010,
+    "director": "John Cameron",
+    "writers": [
+      "Matt Wolpert",
+      "Ben Nedivi"
+    ],
+    "synopsis_en": "In Los Angeles in 1975, producer Howard Zimmerman and actress Vivian Lord cheat writer Thaddeus Mobley. He nearly kills Zimmerman, takes the name Ennis Stussy, and flees. In 2010 Gloria goes to Los Angeles. Both deny knowing him until Vivian tells the truth. On the plane, Paul Marrane tells her a story about a cat that is alive and dead at once. Cartoons follow the robot Minsky on the planet Wyh. Back home, LeFay's prints are in Ennis's house.",
+    "synopsis_he": "בלוס אנג'לס ב-1975 המפיק הווארד צימרמן והשחקנית ויוויאן לורד מרמים את הסופר תדיאוס מובלי. הוא כמעט הורג את צימרמן, לוקח את השם אניס סטאסי ובורח. ב-2010 גלוריה טסה ללוס אנג'לס. שניהם מכחישים עד שוויוויאן מספרת. במטוס פול מראן מספר לה על חתול חי ומת כאחד. קטעי אנימציה עוקבים אחרי הרובוט מינסקי בכוכב וי. בבית מתברר שטביעות של לה פיי היו בבית של אניס.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E04",
+    "season": 3,
+    "number": 4,
+    "title_en": "The Narrow Escape Problem",
+    "title_he": "בעיית הבריחה הצרה",
+    "air_date": "2017-05-10",
+    "story_year": 2010,
+    "director": "Michael Uppendahl",
+    "writers": [
+      "Monica Beletsky"
+    ],
+    "synopsis_en": "Ray poses as Emmit, opens a bank box, and takes cash, but not the stamp. Over dinner Varga frightens Emmit into a partnership. Gloria finds Ray's card on LeFay and meets St. Cloud officer Winnie Lopez, who is on the car Sy hit. Sy gets Ray fired for the affair with Nikki. Lopez tells Gloria that Emmit lives in Eden Prairie and shares the dead man's name.",
+    "synopsis_he": "ריי מתחזה לאמט, פותח כספת ולוקח מזומן, אבל לא את הבול. בארוחת ערב וארגה מפחיד את אמט לשותפות. גלוריה מוצאת את הכרטיס של ריי אצל לה פיי, ופוגשת את השוטרת וויני לופז מסנט קלאוד, שחוקרת את המכונית שסיי פגע בה. סיי גורם לפיטורי ריי בגלל הקשר עם ניקי. לופז אומרת לגלוריה שאמט גר באידן פריירי וחולק את שם המת.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E05",
+    "season": 3,
+    "number": 5,
+    "title_en": "The House of Special Purpose",
+    "title_he": "בית הייעוד המיוחד",
+    "air_date": "2017-05-17",
+    "story_year": 2010,
+    "director": "Dearbhla Walsh",
+    "writers": [
+      "Bob DeLaurentis"
+    ],
+    "synopsis_en": "Ray and Nikki send Emmit a sex tape. His wife sees it and leaves. Varga makes Sy drink urine for talking to the police. Sy tries to sell the lots to Ruby Goldfarb. Varga suggests Sy and Ray are working together. Yuri and Meemo beat Nikki when she meets Sy for a payoff. New chief Moe Dammick frees Ray and orders Gloria to drop the case.",
+    "synopsis_he": "ריי וניקי שולחים לאמט סרטון מין. אשתו רואה ועוזבת. וארגה מכריח את סיי לשתות שתן כי דיבר עם המשטרה. סיי מנסה למכור את החניונים לרובי גולדפרב. וארגה רומז שסיי וריי עובדים יחד. יורי ומימו מכים את ניקי כשהיא נפגשת עם סיי לקבל כסף. המפקד החדש מו דאמיק משחרר את ריי ומורה לגלוריה לסגור את התיק.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E06",
+    "season": 3,
+    "number": 6,
+    "title_en": "The Lord of No Mercy",
+    "title_he": "אדון בלי רחמים",
+    "air_date": "2017-05-24",
+    "story_year": 2010,
+    "director": "Dearbhla Walsh",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "IRS agent Larue Dollard comes about the cash Ray took, and Meemo sends him off. Gloria meets Varga at Emmit's office. Ray and Nikki flee a hotel and leave the stolen money. Emmit brings Ray the stamp to end the feud. They struggle, the frame breaks, and the glass cuts Ray's throat. Emmit calls Varga. The crew stages the room so it looks as if Nikki killed an abusive husband. That call pulls Meemo off Nikki. Gloria turns back toward the apartment.",
+    "synopsis_he": "סוכן המס לארו דולארד בא בגלל המזומן שריי משך, ומימו מרחיק אותו. גלוריה פוגשת את וארגה במשרד של אמט. ריי וניקי בורחים ממלון ומשאירים את הכסף הגנוב. אמט מביא לריי את הבול כדי לסיים את הסכסוך. הם נאבקים, המסגרת נשברת, והזכוכית חותכת את הגרון של ריי. אמט מתקשר לווארגה. הצוות מביים את החדר כאילו ניקי הרגה בעל מתעלל. השיחה מורידה את מימו מניקי. גלוריה חוזרת לדירה.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E07",
+    "season": 3,
+    "number": 7,
+    "title_en": "The Law of Inevitability",
+    "title_he": "חוק הבלתי-נמנע",
+    "air_date": "2017-05-31",
+    "story_year": 2010,
+    "director": "Mike Barker",
+    "writers": [
+      "Noah Hawley",
+      "Matt Wolpert",
+      "Ben Nedivi"
+    ],
+    "synopsis_en": "Gloria and Lopez find Ray's body, and Nikki is arrested. Yuri steals Ennis's file. Emmit tells Varga he feels free. Dammick is sure Nikki did it. A killer sent onto the prison bus is stopped by Gloria, then gets away. Nikki tells her to follow the money and is seated beside Wrench. Varga's men flip the bus and start cutting toward the two of them.",
+    "synopsis_he": "גלוריה ולופז מוצאות את גופת ריי, וניקי נעצרת. יורי גונב את התיק של אניס. אמט אומר לווארגה שהוא מרגיש חופשי. דאמיק בטוח שניקי אשמה. רוצח שנשלח לאוטובוס הכלא נעצר בידי גלוריה ואז בורח. ניקי אומרת לה לעקוב אחרי הכסף, ומושיבים אותה ליד רנץ'. אנשי וארגה הופכים את האוטובוס ומתחילים לחתוך פנימה.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E08",
+    "season": 3,
+    "number": 8,
+    "title_en": "Who Rules the Land of Denial?",
+    "title_he": "מי שולט בארץ ההכחשה?",
+    "air_date": "2017-06-07",
+    "story_year": 2010,
+    "director": "Mike Barker",
+    "writers": [
+      "Noah Hawley",
+      "Monica Beletsky"
+    ],
+    "synopsis_en": "Wrench and Nikki escape into the woods, still cuffed together. They kill one hunter and cut off Yuri's ear. In a bowling alley Paul Marrane talks about souls and shows Nikki a kitten he says is Ray. Yuri arrives and is shown the dead his ancestors killed. At Christmas, Varga poisons Sy into a coma. Three months later the company is huge, Gloria is a deputy, and Emmit walks into the station to confess.",
+    "synopsis_he": "רנץ' וניקי בורחים ליער, עדיין אזוקים זה לזה. הם הורגים צייד אחד וחותכים ליורי את האוזן. באולם באולינג פול מראן מדבר על נשמות ומראה לניקי חתלתול שהוא אומר שהוא ריי. יורי מגיע ורואה את המתים שאבותיו הרגו. בחג המולד וארגה מרעיל את סיי לתרדמת. שלושה חודשים אחר כך החברה ענקית, גלוריה סגנית, ואמט נכנס לתחנה להתוודות.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E09",
+    "season": 3,
+    "number": 9,
+    "title_en": "Aporia",
+    "title_he": "אפוריה",
+    "air_date": "2017-06-14",
+    "story_year": 2011,
+    "director": "Keith Gordon",
+    "writers": [
+      "Noah Hawley",
+      "Bob DeLaurentis"
+    ],
+    "synopsis_en": "Varga has two other men named Stussy killed in the same ways as Ennis and Ray. Emmit tells Gloria he took the stamps and left Ray their father's car. A man posing as Meemo confesses to all four deaths, so Dammick lets Emmit go. Gloria fears she is not real. Then the automatic sink works for her. Nikki and Wrench take Varga's books. She tells him she will ruin him for Ray. Dollard receives the file.",
+    "synopsis_he": "וארגה דואג ששני גברים נוספים בשם סטאסי ייהרגו כמו אניס וריי. אמט מספר לגלוריה שהוא לקח את הבולים והשאיר לריי את המכונית של אביהם. אדם שמתחזה למימו מודה בארבעת המוות, ודאמיק משחרר את אמט. גלוריה פוחדת שהיא לא קיימת. ואז הברז האוטומטי עובד לה. ניקי ורנץ' גונבים את הספרים של וארגה. היא אומרת לו שתהרוס אותו בגלל ריי. דולארד מקבל את התיק.",
+    "link_ids": []
+  },
+  {
+    "id": "S3E10",
+    "season": 3,
+    "number": 10,
+    "title_en": "Somebody to Love",
+    "title_he": "מישהו לאהוב",
+    "air_date": "2017-06-21",
+    "story_year": 2011,
+    "director": "Keith Gordon",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Dollard tells Gloria the Stussy deal is tax fraud. Varga forces Emmit to sign the company over, beats him, and sticks the stamp on his forehead. Wrench kills Varga's men at the drop. Varga escapes up an elevator shaft. Emmit finds Ruby Goldfarb owns the lots. Nikki and a cop shoot each other dead. Emmit returns to his wife. Five years later Wrench kills him at dinner. Gloria, now at Homeland Security, faces Varga in an airport room. He says he will walk. She says he will not. They wait.",
+    "synopsis_he": "דולארד אומר לגלוריה שהעסקה של סטאסי היא הונאת מס. וארגה מכריח את אמט לחתום על מסירת החברה, מכה אותו, ומדביק לו את הבול למצח. רנץ' הורג את אנשי וארגה בנקודת ההחלפה. וארגה מטפס בפיר מעלית ונמלט. אמט מתעורר ומגלה שרובי גולדפרב בעלת החניונים. ניקי ושוטר יורים זה בזה ומתים. אמט חוזר אל אשתו. חמש שנים אחר כך רנץ' הורג את אמט בארוחת משפחה. גלוריה, עכשיו במשרד לביטחון המולדת, יושבת מול וארגה בחדר בנמל תעופה. הוא אומר שישתחרר. היא אומרת שלא. הם מחכים.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E01",
+    "season": 4,
+    "number": 1,
+    "title_en": "Welcome to the Alternate Economy",
+    "title_he": "ברוכים הבאים לכלכלה החלופית",
+    "air_date": "2020-09-27",
+    "story_year": 1950,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Ethelrida's report: Kansas City gangs trade their youngest sons. In 1920 the Irish wipe out the Jewish syndicate. In 1934 the Faddas wipe out the Irish, and Rabbi Milligan must kill his own father. In 1949 Loy Cannon trades son Satchel for Donatello Fadda's son Zero. A year later a BB gun hits Donatello in the neck. Nurse Oraetta Mayflower kills him with morphine and takes his ring. Ethelrida's father Thurman owes Loy money he cannot pay. Oraetta watches them from across the street.",
+    "synopsis_he": "החיבור של את'לרידה מספר איך כנופיות קנזס סיטי מחליפות את הבנים הצעירים. ב-1920 האירים מוחקים את הסינדיקט היהודי. ב-1934 משפחת פאדה מוחקת את האירים, ופטריק \"רבי\" מיליגן נאלץ להרוג את אביו. ב-1949 לוי קאנון מחליף את בנו סאצ'ל בזירו, בנו של דונטלו פאדה, ורבי מבטיח לשמור על סאצ'ל. שנה אחר כך רובה אוויר פוגע לדונטלו בצוואר. האחות אוריאייטה מייפלואר הורגת אותו במורפיום ולוקחת את הטבעת. אביה של את'לרידה, תורמן, חייב ללוי כסף שאינו יכול להחזיר. אוריאייטה צופה במשפחה מהדירה ממול.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E02",
+    "season": 4,
+    "number": 2,
+    "title_en": "The Land of Taking and Killing",
+    "title_he": "ארץ הלקיחה וההרג",
+    "air_date": "2020-09-27",
+    "story_year": 1950,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Bank robbers Zelmare Roulette and Swanee Capps, just out of prison, land at the Smutny funeral home. Josto Fadda takes over the family, but his brother Gaetano stays and mocks him. A hit meant for Dr. Harvard kills the wrong people. Corrupt cop Odis Weff tells Josto to ease off. Loy and Doctor Senator move on a slaughterhouse the Faddas had discussed. Gaetano warns them. Oraetta, taken with Ethelrida, leaves an apple pie laced with ipecac. Police raid the house for the two women.",
+    "synopsis_he": "שודדות הבנקים זלמאר רולט וסוואני קאפס, שזה עתה יצאו מהכלא, נוחתות בבית הלוויות של משפחת סמוטני. ג'וסטו פאדה תופס את ההנהגה, אבל אחיו גייטנו נשאר ולועג לו. חיסול שנועד לד\"ר הרווארד הורג את האנשים הלא נכונים. השוטר המושחת אודיס ווף אומר לג'וסטו להירגע. לוי ודוקטור סנטור זזים על בית מטבחיים שמשפחת פאדה דנה בו. גייטנו מזהיר אותם. אוריאייטה, שמתרשמת מאת'לרידה, משאירה עוגת תפוחים עם סם הקאה. המשטרה פורצת לבית בחיפוש אחרי שתי הנשים.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E03",
+    "season": 4,
+    "number": 3,
+    "title_en": "Raddoppiarlo",
+    "title_he": "רדופיארלו",
+    "air_date": "2020-10-04",
+    "story_year": 1950,
+    "director": "Dearbhla Walsh",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Marshal Dick \"Deafy\" Wickware raids the funeral home with Odis. Zelmare and Swanee were hiding in a morgue drawer. Thurman smuggles them out in a coffin. They rob Loy's house, but Swanee ate the pie and vomits on the cash. Oraetta, fired, gets a job at Harvard's hospital and starts an affair with Josto. Gaetano orders a drive-by on Loy's son Lemuel and makes Rabbi the shooter. Rabbi spoils the shot. Loy wants war. Senator asks for time to look.",
+    "synopsis_he": "המרשל דיק \"דפי\" ויקואר פורץ לבית הלוויות עם אודיס. זלמאר וסוואני הסתתרו במגירת מתים. תורמן מוציא אותן בארון. הן שודדות את הבית של לוי, אבל סוואני אכלה מהעוגה ומקיאה על הכסף. אוריאייטה, שפוטרה, מתקבלת לבית החולים של הרווארד ומתחילה רומן עם ג'וסטו. גייטנו מורה על ירי לעבר למואל, בנו של לוי, ושם את רבי על ההדק. רבי מקלקל את הירי. לוי רוצה מלחמה. סנטור מבקש זמן לבדוק.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E04",
+    "season": 4,
+    "number": 4,
+    "title_en": "The Pretend War",
+    "title_he": "המלחמה המדומה",
+    "air_date": "2020-10-11",
+    "story_year": 1950,
+    "director": "Dearbhla Walsh",
+    "writers": [
+      "Noah Hawley",
+      "Stefani Robinson"
+    ],
+    "synopsis_en": "Loy's men stop a Fadda gun truck, brand Constant Calamita, and take the rifles. Loy sells the guns cheap to the Fargo mob and banks a favor. A talk with consigliere Ebal Violante shows Senator that the hit was Gaetano's, not Josto's. Josto threatens to shoot Gaetano in front of his men. Cleaning Oraetta's apartment, Ethelrida finds poisons, clippings, and Donatello's ring. She takes a clipping and the ring and leaves her notebook. Thurman pays Loy with the stolen, sour cash. Loy smells it.",
+    "synopsis_he": "אנשי לוי עוצרים משאית נשק של פאדה, צורבים את קונסטנט קלמיטה, ולוקחים את הרובים. לוי מוכר את הנשק בזול למאפיה של פארגו ושומר טובה. שיחה עם היועץ אבאל ויולנטה מראה לסנטור שהחיסול היה של גייטנו, לא של ג'וסטו. ג'וסטו מאיים לירות בגייטנו מול אנשיו. את'לרידה, שמנקה אצל אוריאייטה, מוצאת רעלים, גזירים ואת הטבעת של דונטלו. היא לוקחת גזיר ואת הטבעת ושוכחת מחברת. תורמן משלם ללוי בכסף הגנוב והמסריח. לוי מריח.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E05",
+    "season": 4,
+    "number": 5,
+    "title_en": "The Birthplace of Civilization",
+    "title_he": "ערש הציוויליזציה",
+    "air_date": "2020-10-18",
+    "story_year": 1950,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley",
+      "Francesca Sloane"
+    ],
+    "synopsis_en": "Ethelrida writes Dr. Harvard, without her name, about Oraetta's dead patients. Josto has Odis arrest Cannon men, including Lemuel. Loy turns Odis's compulsions against him and stays free, but Odis takes the money bag. Loy seizes the funeral home and demands Zelmare. Deafy questions Ethelrida at school. Loy reaches the hotel first and sneaks the women out. Calamita shoots Doctor Senator dead in the street.",
+    "synopsis_he": "את'לרידה כותבת לד\"ר הרווארד, בלי שמה, על החולים שמתו אצל אוריאייטה. ג'וסטו שולח את אודיס לעצור אנשי קאנון, כולל למואל. לוי הופך את הכפייתיות של אודיס נגדו ונשאר חופשי, אבל אודיס לוקח את שק הכסף. לוי משתלט על בית הלוויות ודורש את זלמאר. דפי חוקר את את'לרידה בבית הספר. לוי מגיע ראשון למלון ומוציא את הנשים. קלמיטה יורה בדוקטור סנטור ברחוב.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E06",
+    "season": 4,
+    "number": 6,
+    "title_en": "Camp Elegance",
+    "title_he": "מחנה אלגנטיות",
+    "air_date": "2020-10-25",
+    "story_year": 1950,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley",
+      "Enzo Mileti",
+      "Scott Wilson",
+      "Francesca Sloane"
+    ],
+    "synopsis_en": "Loy flips Odis. Zelmare and Swanee grab Gaetano and bring him to Loy. Oraetta talks Harvard down, but he will not show her the letter. Violante comes back from New York with a young Joe Bulo: Josto has two weeks, and he must make peace with Gaetano. Josto secretly tells his brother-in-law, Antoon Dumini, to kill Satchel. Rabbi kills Antoon first and runs with the boy.",
+    "synopsis_he": "לוי הופך את אודיס. זלמאר וסוואני חוטפות את גייטנו ומביאות אותו ללוי. אוריאייטה מרגיעה את הרווארד, אבל הוא לא מראה לה את המכתב. ויולנטה חוזר מניו יורק עם ג'ו בולו הצעיר: לג'וסטו יש שבועיים, והוא חייב לעשות שלום עם גייטנו. ג'וסטו אומר בסתר לגיסו, אנטון דומיני, להרוג את סאצ'ל. רבי הורג את אנטון קודם ובורח עם הילד.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E07",
+    "season": 4,
+    "number": 7,
+    "title_en": "Lay Away",
+    "title_he": "שמור בצד",
+    "air_date": "2020-11-01",
+    "story_year": 1950,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley",
+      "Enzo Mileti",
+      "Scott Wilson"
+    ],
+    "synopsis_en": "Oraetta poisons Harvard with macaroons and steals Ethelrida's letter. The Faddas find Antoon and send Calamita after Rabbi and Satchel. Josto wrecks the prisoner trade. He tells Loy that Calamita killed Satchel, and he asks Loy to kill Gaetano. Loy sees the trick, tells Gaetano that his brother sold him, and lets him go. He sends Omie Sparkman after Calamita.",
+    "synopsis_he": "אוריאייטה מרעילה את הרווארד במקרונים וגונבת את המכתב של את'לרידה. משפחת פאדה מוצאת את אנטון ושולחת את קלמיטה אחרי רבי וסאצ'ל. ג'וסטו הורס את חילופי השבויים. הוא אומר ללוי שקלמיטה הרג את סאצ'ל, ומבקש מלוי להרוג את גייטנו. לוי רואה את התרגיל, אומר לגייטנו שאחיו מכר אותו, ומשחרר אותו. הוא שולח את אומי ספארקמן אחרי קלמיטה.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E08",
+    "season": 4,
+    "number": 8,
+    "title_en": "The Nadir",
+    "title_he": "נקודת השפל",
+    "air_date": "2020-11-08",
+    "story_year": 1950,
+    "director": "Sylvain White",
+    "writers": [
+      "Noah Hawley",
+      "Enzo Mileti",
+      "Scott Wilson"
+    ],
+    "synopsis_en": "Harvard lives. Oraetta matches Ethelrida's notebook to the letter. Gaetano beats Josto, then sides with him. Loy calls in the favor from Fargo. Deafy forces Loy to give up the train Zelmare and Swanee will take. At the station Odis, still Loy's man, shoots Deafy and kills Swanee. Zelmare gets away. Mort Kellerman's Fargo crew hits the brothers at their mother's house. Gaetano drives them off. Their mother is dead.",
+    "synopsis_he": "הרווארד שורד. אוריאייטה משווה את המחברת של את'לרידה למכתב. גייטנו מכה את ג'וסטו ואז עובר לצידו. לוי גובה את הטובה מפארגו. דפי מכריח את לוי למסור את הרכבת של זלמאר וסוואני. בתחנה אודיס, עדיין איש של לוי, יורה בדפי והורג את סוואני. זלמאר בורחת. אנשי פארגו של מורט קלרמן תוקפים את האחים בבית אמם. גייטנו מגרש אותם. האם מתה.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E09",
+    "season": 4,
+    "number": 9,
+    "title_en": "East/West",
+    "title_he": "מזרח/מערב",
+    "air_date": "2020-11-15",
+    "story_year": 1950,
+    "director": "Michael Uppendahl",
+    "writers": [
+      "Noah Hawley",
+      "Lee Edward Colston II"
+    ],
+    "synopsis_en": "In black and white, Omie waits at a Kansas gas station for Calamita. The day before, Rabbi and Satchel hide in a strange boarding house in Liberal. Satchel wants to keep a dog named Rabbit. Rabbi goes out for a birthday candy bar and walks into the gunfight. A tornado takes the station and kills Rabbi, Calamita, and Omie. In the morning Satchel takes the gun and the dog and starts walking.",
+    "synopsis_he": "בשחור-לבן אומי מחכה בתחנת דלק בקנזס לקלמיטה. יום קודם רבי וסאצ'ל מסתתרים בפנסיון מוזר בליברל. סאצ'ל רוצה להשאיר כלב בשם ראביט. רבי יוצא לחפש חטיף ליום הולדת ונכנס לקרב היריות. סופת טורנדו בולעת את התחנה והורגת את רבי, את קלמיטה ואת אומי. בבוקר סאצ'ל לוקח את האקדח ואת הכלב ומתחיל ללכת.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E10",
+    "season": 4,
+    "number": 10,
+    "title_en": "Happy",
+    "title_he": "האפי",
+    "air_date": "2020-11-22",
+    "story_year": 1951,
+    "director": "Sylvain White",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "The war runs into 1951. Odis arrests Josto's circle, then Gaetano shoots him. Running from the car, Gaetano trips, and his own gun kills him. Josto flees. Loy asks his brother-in-law Happy for help. Happy and Leon sell him out to Josto. Oraetta comes for Ethelrida and the ring, sees a ghost, and runs. Police arrest her on Harvard's word. Ethelrida offers Loy the ring and proof that Oraetta killed Donatello, in exchange for her family's business.",
+    "synopsis_he": "המלחמה נמשכת אל 1951. אודיס עוצר את מעגל ג'וסטו, ואז גייטנו יורה בו. בבריחה מהמכונית גייטנו מועד, והאקדח שלו הורג אותו. ג'וסטו בורח. לוי מבקש עזרה מגיסו האפי. האפי וליאון מוכרים אותו לג'וסטו. אוריאייטה באה אל את'לרידה ואל הטבעת, רואה רוח, ובורחת. המשטרה עוצרת אותה על פי הרווארד. את'לרידה מציעה ללוי את הטבעת והוכחה שאוריאייטה הרגה את דונטלו, תמורת העסק של משפחתה.",
+    "link_ids": []
+  },
+  {
+    "id": "S4E11",
+    "season": 4,
+    "number": 11,
+    "title_en": "Storia Americana",
+    "title_he": "סטוריה אמריקנה",
+    "air_date": "2020-11-29",
+    "story_year": 1951,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Loy gives the funeral home back. Drunk, Josto kills his fiancée's father and Dr. Harvard. Loy returns Zero and the ring, and he and Violante end the war. Loy has Happy and Leon killed. Oraetta's testimony helps Violante blame Josto for Donatello and Gaetano. New York hands him the family. Joe Bulo shoots Josto and Oraetta in a field. Satchel comes home. Violante then takes half of Loy's business. Zelmare stabs Loy on his porch as Satchel watches. In the credits the boy has become Mike Milligan.",
+    "synopsis_he": "לוי מחזיר את בית הלוויות. שיכור, ג'וסטו הורג את אבי ארוסתו ואת ד\"ר הרווארד. לוי מחזיר את זירו ואת הטבעת, והוא וויולנטה מסיימים את המלחמה. לוי הורג את האפי ואת ליאון. בבית דין משפחתי העדות של אוריאייטה עוזרת לוויולנטה להאשים את ג'וסטו בדונטלו ובגייטנו. ניו יורק מוסרת לו את המשפחה. ג'ו בולו יורה בג'וסטו ובאוריאייטה בשדה. סאצ'ל חוזר הביתה. ואז ויולנטה לוקח חצי מהעסק של לוי. זלמאר דוקרת את לוי במרפסת, וסאצ'ל רואה. בקרדיטים הילד הפך למייק מיליגן.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E01",
+    "season": 5,
+    "number": 1,
+    "title_en": "The Tragedy of the Commons",
+    "title_he": "הטרגדיה של נחלת הכלל",
+    "air_date": "2023-11-21",
+    "story_year": 2019,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "In 2019, Scandia wife Dot Lyon tasers a cop by mistake at a school-board riot, and deputy Indira Olmstead arrests her. Husband Wayne bails her out. Ole Munch and Donald Ireland kidnap her after a long fight. Wayne's mother Lorraine, who runs a debt company, will pay a ransom. Troopers stop the car in North Dakota. Dot runs. Munch kills one trooper and wounds Witt Farr. At a gas station her traps kill Ireland and hurt Munch. She patches Witt, walks home, and tells Wayne none of it happened.",
+    "synopsis_he": "ב-2019 עקרת הבית דוט ליון מסקנדיה מחשמלת שוטר בטעות במהומה באספת הורים, והסגנית אינדירה אולמסטד עוצרת אותה. בעלה ויין משחרר אותה בערבות. אולה מונץ' ודונלד איירלנד חוטפים אותה אחרי מאבק ארוך. אמו של ויין, לוריין, שמנהלת חברת חובות, מוכנה לשלם כופר. שוטרי מדינה עוצרים את המכונית בדקוטה הצפונית. דוט בורחת. מונץ' הורג שוטר ופוצע את ויט פאר. בתחנת דלק המלכודות שלה הורגות את איירלנד ופוצעות את מונץ'. היא חובשת את ויט, הולכת הביתה, ואומרת לוויין שדבר לא קרה.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E02",
+    "season": 5,
+    "number": 2,
+    "title_en": "Trials and Tribulations",
+    "title_he": "ניסיונות ותלאות",
+    "air_date": "2023-11-21",
+    "story_year": 2019,
+    "director": "Noah Hawley",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Sheriff Roy Tillman, who hired Munch, says Dot is his wife Nadine, gone eleven years. Munch wants triple pay. Son Gator tries to kill him and loses two men. The FBI presses Roy. Gator deletes Dot's photo from Indira's phone before Witt sees it. Lorraine thinks Dot faked the kidnapping and offers money if she leaves. Dot and daughter Scotty trap the house. At the gas station Munch kills another deputy and pins on a blood note demanding his money.",
+    "synopsis_he": "השריף רוי טילמן ממחוז סטארק, ששכר את מונץ', אומר שדוט היא אשתו נדין, שנעלמה לפני אחת-עשרה שנה. מונץ' דורש תשלום משולש. הבן גייטור מנסה להרוג אותו ומפסיד שני אנשים. סוכני אף־בי־איי לוחצים על רוי לציית לחוק הפדרלי. גייטור מוחק את תמונת דוט מהטלפון של אינדירה לפני שוויט רואה. לוריין חושבת שדוט ביימה את החטיפה ומנסה לשלם לה שתעזוב. דוט ובתה סקוטי ממקמות מלכודות בבית. בתחנה מונץ' הורג סגן נוסף ונועץ פתק בדם שדורש את כספו.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E03",
+    "season": 5,
+    "number": 3,
+    "title_en": "The Paradox of Intermediate Transactions",
+    "title_he": "פרדוקס עסקאות הביניים",
+    "air_date": "2023-11-28",
+    "story_year": 2019,
+    "director": "Donald Murphy",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Roy tells Gator to call the death an accident. Dot plans Halloween weapons and flips the street signs. Old Irma lets Munch stay. A flashback to Wales, five centuries back, shows him eating a dead man's sins for pay. Dot and Wayne cannot buy guns that day. Witt catches Gator stealing Ireland evidence. Roy wants Dot taken on Halloween. Munch covers himself in goat's blood. After trick-or-treat Dot sees a masked van. Munch enters the house where Roy's wife and daughters sleep.",
+    "synopsis_he": "רוי אומר לגייטור לקרוא למוות תאונה. דוט מתכננת נשק לליל כל הקדושים והופכת שלטי רחוב. אישה זקנה, אירמה, נותנת למונץ' לגור בביתה. פלאשבק לוויילס, לפני חמש מאות שנה, מראה אותו אוכל את חטאי המת תמורת תשלום. דוט וויין לא יכולים לקנות רובים באותו יום. ויט תופס את גייטור גונב ראיה על איירלנד. רוי רוצה לקחת את דוט בליל כל הקדושים. מונץ' מתכסה בדם עז. אחרי הממתקים דוט רואה טנדר עם מסכות. מונץ' נכנס לבית שבו אשתו ובנותיו של רוי ישנות.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E04",
+    "season": 5,
+    "number": 4,
+    "title_en": "Insolubilia",
+    "title_he": "אינסולוביליה",
+    "air_date": "2023-12-05",
+    "story_year": 2019,
+    "director": "Donald Murphy",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Gator's masked crew hits the Lyon house. Dot fights them off. One of her traps nearly electrocutes Wayne and starts a fire. Everyone gets out. Roy finds his guard dead and a blood sign over his daughters' bed. The girls are unhurt. At the hospital, lawyer Danish Graves blocks Witt and Indira. The FBI suspects Roy of arming his father-in-law's militia, and the boss backs off. Roy kills an abusive husband and tells Gator to hang Munch's gas-station crimes on the dead man.",
+    "synopsis_he": "הצוות הרעול של גייטור פורץ לבית ליון. דוט מגרשת אותם. מלכודת שלה כמעט מחשמלת את ויין ומדליקה שריפה. כולם יוצאים. רוי מוצא את השומר מת וסימן בדם מעל מיטת הבנות. הבנות לא נפגעו. בבית החולים עורך הדין דניש גרייבס חוסם את ויט ואת אינדירה. האף־בי־איי חושד שרוי מחמש את המיליציה של חמיו, והממונה נסוג. רוי הורג בעל מתעלל ואומר לגייטור לתלות על המת את פשעי התחנה של מונץ'.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E05",
+    "season": 5,
+    "number": 5,
+    "title_en": "The Tiger",
+    "title_he": "הנמר",
+    "air_date": "2023-12-12",
+    "story_year": 2019,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Dot and Scotty stay at Lorraine's compound. Lorraine tries to have Dot committed. Dot fights the orderlies and runs. Lorraine squeezes banker Vivian Dugger to sell. Roy comes looking for Dot. Lorraine offers him campaign money to go away. He hears Dot is loose and sends men for Wayne. Dot hides Wayne and lets them take another patient. She leaves Scotty with Indira and says her ex-husband is coming.",
+    "synopsis_he": "דוט וסקוטי נשארות במתחם של לוריין. לוריין מנסה לאשפז את דוט. דוט נלחמת בסניטרים ובורחת. לוריין לוחצת על הבנקאי ויוויאן דאגר למכור. רוי בא לחפש את דוט. לוריין מציעה לו כסף לקמפיין כדי שילך. הוא שומע שדוט חופשייה ושולח אנשים אל ויין. דוט מחביאה את ויין ונותנת להם לקחת מטופל אחר. היא משאירה את סקוטי אצל אינדירה ואומרת שבעלה לשעבר בדרך.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E06",
+    "season": 5,
+    "number": 6,
+    "title_en": "The Tender Trap",
+    "title_he": "המלכודת העדינה",
+    "air_date": "2023-12-19",
+    "story_year": 2019,
+    "director": "Dana Gonzales",
+    "writers": [
+      "Noah Hawley",
+      "Bob DeLaurentis"
+    ],
+    "synopsis_en": "Roy scares Dugger out of selling the bank to Lorraine. At the ranch he sees the wrong hostage and kills him. The FBI tell Indira they want to use Dot against Roy. Gator hides a tracker on Munch's car while Roy pays Munch. Indira finds Scotty left alone, brings her back, and gives Lorraine a file on how Roy abused Dot. Lorraine offers Indira a security job and a way out of debt, ruins Dugger for embezzling, and reads how bad the abuse was.",
+    "synopsis_he": "רוי מפחיד את דאגר כדי שלא ימכור את הבנק ללוריין. בחווה הוא רואה שחטפו את האיש הלא נכון והורג אותו. האף־בי־איי אומר לאינדירה שהם רוצים להשתמש בדוט נגד רוי. גייטור מחביא משדר על המכונית של מונץ' בזמן שרוי משלם לו. אינדירה מוצאת את סקוטי לבד, מחזירה אותה, ונותנת ללוריין תיק על ההתעללות של רוי בדוט. לוריין מציעה לאינדירה ניהול אבטחה ומוצא מהחוב, הורסת את דאגר על מעילה, וקוראת כמה קשה ההתעללות הייתה.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E07",
+    "season": 5,
+    "number": 7,
+    "title_en": "Linda",
+    "title_he": "לינדה",
+    "air_date": "2023-12-26",
+    "story_year": 2019,
+    "director": "Sylvain White",
+    "writers": [
+      "Noah Hawley",
+      "April Shih"
+    ],
+    "synopsis_en": "Munch kills Irma's son Kevin after the man shoves her, but first pays the rent. Gator shoots a shape in the window, Kevin's corpse, steals the cash, and shoves Irma. She dies in the fall. Dot drives to a diner, then dreams she is at Camp Utopia, a shelter run by Linda, Roy's first wife. With puppets she tells how Roy took her in at fifteen and hurt her. She wakes in the diner. A truck hits the lot. In the hospital, Roy is at her bedside.",
+    "synopsis_he": "מונץ' הורג את קווין, בנה של אירמה, אחרי שהאיש מתעלל בה, אבל קודם משלם את שכר הדירה. גייטור יורה בצל בחלון, בגופת קווין, גונב את המזומן, ודוחף את אירמה. היא מתה מהנפילה. דוט נוסעת לדיינר, ואז נדמה שהיא מגיעה לקמפ יוטופיה, מקלט של לינדה, אשתו הראשונה של רוי ואמו של גייטור. עם בובות דוט מספרת איך רוי אסף אותה בגיל חמש-עשרה ופגע בה. היא מתעוררת בדיינר. המחנה היה חלום. משאית מתנגשת בחניון. היא מתעוררת במיטת בית חולים, ורוי לידה.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E08",
+    "season": 5,
+    "number": 8,
+    "title_en": "Blanket",
+    "title_he": "שמיכה",
+    "air_date": "2024-01-02",
+    "story_year": 2019,
+    "director": "Sylvain White",
+    "writers": [
+      "Noah Hawley",
+      "Thomas Bezucha"
+    ],
+    "synopsis_en": "Danish has three debtors take the name Roy Tillman, and they wreck his debate. Indira throws her husband out. Witt sees Roy take Dot and cannot stop it. Roy chains her in a barn. She tells Gator that Linda is alive. He drives off with Munch hidden in the car. Witt warns Danish. Roy comes home raging, and Dot fights him. Danish offers to fix the election for Dot. Roy kills him. Dot sees the grave under a windmill and understands Roy killed Linda there.",
+    "synopsis_he": "דניש גורם לשלושה חייבים לשנות את שמם לרוי טילמן, והם הורסים את עימות הבחירות של רוי. אינדירה זורקת את בעלה. ויט רואה את רוי לוקח את דוט ולא יכול לעצור. רוי כובל אותה ברפת. גייטור שומע אותה אומרת שלינדה חיה, ונוסע עם מונץ' מוסתר במכונית. ויט מספר לדניש. רוי חוזר הביתה בזעם. דוט נלחמת בו. דניש מציע לתקן את הבחירות אם רוי יחזיר את דוט. רוי הורג אותו. דוט רואה את הגופה יורדת לבור מתחת לטחנת רוח ומבינה שרוי הרג שם את לינדה.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E09",
+    "season": 5,
+    "number": 9,
+    "title_en": "The Useless Hand",
+    "title_he": "היד חסרת התועלת",
+    "air_date": "2024-01-09",
+    "story_year": 2019,
+    "director": "Thomas Bezucha",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Munch takes Gator's eyes for Irma's death, at an ice-fishing cabin. Indira, now Lorraine's security chief, tracks Danish's phone to the ranch. Lorraine gets federal and state forces sent in. Roy calls up the militia. Dot escapes the barn, calls Wayne, and takes Karen Tillman's gun. Munch leaves the blinded Gator with Roy, who calls the boy useless and walks off. Dot hides in the pit. Munch kills the men who find her, gives her a gun, and goes.",
+    "synopsis_he": "מונץ' מוציא לגייטור את העיניים על מות אירמה, בבקתה לדיג בקרח. אינדירה, עכשיו ראשת האבטחה של לוריין, עוקבת אחרי הטלפון של דניש עד החווה. לוריין מביאה כוח פדרלי וכוח מדינה. רוי מזמן את המיליציה. דוט בורחת מהרפת, מתקשרת לוויין, ולוקחת את האקדח של קארן טילמן. מונץ' משאיר את גייטור העיוור אצל רוי, שקורא לבן חסר תועלת והולך. דוט מתחבאת בבור. מונץ' הורג את האנשים שמוצאים אותה, נותן לה אקדח, ונעלם.",
+    "link_ids": []
+  },
+  {
+    "id": "S5E10",
+    "season": 5,
+    "number": 10,
+    "title_en": "Bisquik",
+    "title_he": "ביסקוויק",
+    "air_date": "2024-01-16",
+    "story_year": 2019,
+    "director": "Thomas Bezucha",
+    "writers": [
+      "Noah Hawley"
+    ],
+    "synopsis_en": "Witt goes in with the FBI. Roy kills his father-in-law. Dot shoots Roy in the gut, and the team takes her. Roy stabs Witt dead in a dugout, then is caught in the tunnel because Gator told the FBI. Dot makes peace with Gator and goes home. A year later Lorraine tells Roy, in prison, that inmates will hurt him. Munch comes to the Lyons over his wounds. Dot says a free meal can release him. She has him help make biscuits. He eats one and smiles.",
+    "synopsis_he": "ויט נכנס עם האף־בי־איי. רוי הורג את חמיו בגלל בריחת דוט. דוט יורה לרוי בבטן. הכוח לוקח אותה. רוי דוקר את ויט למוות במקלט, ואז נתפס במנהרה כי גייטור אמר לאף־בי־איי איפה ייצא. דוט וגייטור עושים מעין שלום, והיא חוזרת הביתה אל ויין וסקוטי. שנה אחר כך לוריין אומרת לרוי, בכלא, שאסירים אחרים יתעללו בו. מונץ' בא לבית ליון לגבות את חוב הפצעים. דוט אומרת שארוחה שניתנת בחינם יכולה לשחרר אותו. היא מלמדת אותו להכין ביסקוויטים. הוא אוכל אחד ומחייך.",
     "link_ids": []
   }
 ]
